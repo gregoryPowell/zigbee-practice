@@ -159,7 +159,9 @@ gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager-no-vault.
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sl_sleeptimer.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/scenes-config.h \
  C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zigbee_af_token_headers.h \
+ c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\plugin\scenes\scenes-tokens.h \
  C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zap-tokens.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\token_manager\inc\sl_token_manager_af_token_header.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\legacy_hal\inc\cortexm3/diagnostic.h \
@@ -378,7 +380,9 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_slist.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sl_sleeptimer.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
+C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/scenes-config.h:
 C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zigbee_af_token_headers.h:
+c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\plugin\scenes\scenes-tokens.h:
 C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zap-tokens.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\token_manager\inc\sl_token_manager_af_token_header.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\legacy_hal\inc\cortexm3/diagnostic.h:

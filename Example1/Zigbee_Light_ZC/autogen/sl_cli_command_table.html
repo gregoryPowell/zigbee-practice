@@ -1202,10 +1202,10 @@ Example syntax (.slcc or .slcp) for populating this file:
 </div>
 <div class="group">
   <div class="group-header">
-    <h3 class="group-name"> mfglib</h3>
+    <h3 class="group-name"> groups-server</h3>
   </div>
   <div class="group-info">
-    <span class="help">mfglib related commands</span>
+    <span class="help">groups-server related commands.</span>
     
     <div class="command-list">
     
@@ -1214,36 +1214,11 @@ Example syntax (.slcc or .slcp) for populating this file:
   <div class="command">
     <div class="command-header-bar"></div>
     <div class="command-header">
-      <span class="command-name"> mfglib start</span>
-        <span class="command-argument">i8</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_start_command</span>
+      <span class="command-name"> groups-server print</span>
+      <span class="command-handler">sli_zigbee_af_groups_server_cli_print</span>
     </div>
     <div class="command-info">
-      <div class="help">Start the mfglib test mode.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">i8</span>Use the Rx callback.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib stop</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_stop_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Stop the mfglib test mode.</div>
+      <div class="help">Prints information about the contents of the groups table.</div>
       
       
     </div>
@@ -1254,204 +1229,11 @@ Example syntax (.slcc or .slcp) for populating this file:
   <div class="command">
     <div class="command-header-bar"></div>
     <div class="command-header">
-      <span class="command-name"> mfglib status</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_status_command</span>
+      <span class="command-name"> groups-server clear</span>
+      <span class="command-handler">sli_zigbee_af_groups_server_cli_clear</span>
     </div>
     <div class="command-info">
-      <div class="help">Prints the current status of the manufacturing library.</div>
-      
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib set-channel</span>
-        <span class="command-argument">u8</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_set_channel_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Sets the channel used by the manufacturing library for testing.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">u8</span>The 802.15.4 channel number.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib set-power</span>
-        <span class="command-argument">i8</span>
-        <span class="command-argument">u16</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_set_power_and_mode_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Set the power level and mode for the manufacturing test.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">i8</span>The power level
-        </li>
-        <li>
-        <span class="argument-name">u16</span>The power mode
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib sleep</span>
-        <span class="command-argument">u16</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_sleep_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Sleep.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">u16</span>Sleep duration (mS).
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib programEui</span>
-        <span class="command-argument">hex</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_program_eui_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Program EUI.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">hex</span>IEEE address to program.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib mfgenable</span>
-        <span class="command-argument">u8</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_enable_mfglib</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Enable mfglib.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">u8</span>1 = enable, 0 = disable.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib set-options</span>
-        <span class="command-argument">u8</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_set_options</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Sets options in the manufacturing library for testing.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">u8</span>The options bitmask (0 = normal transmit, 1 = CSMA transmit).
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-<div class="group">
-  <div class="group-header">
-    <h4 class="group-name"> mfglib tone</h4>
-  </div>
-  <div class="group-info">
-    <span class="help">tone related commands</span>
-    
-    <div class="command-list">
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib tone start</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_tone_start_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Starts a tone test.</div>
-      
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> mfglib tone stop</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_tone_stop_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Stops the tone test.</div>
+      <div class="help">Clears the groups table on every endpoint</div>
       
       
     </div>
@@ -1461,10 +1243,10 @@ Example syntax (.slcc or .slcp) for populating this file:
 </div>
 <div class="group">
   <div class="group-header">
-    <h4 class="group-name"> stream</h4>
+    <h3 class="group-name"> identify</h3>
   </div>
   <div class="group-info">
-    <span class="help">stream related commands</span>
+    <span class="help">identify related commands</span>
     
     <div class="command-list">
     
@@ -1473,131 +1255,16 @@ Example syntax (.slcc or .slcp) for populating this file:
   <div class="command">
     <div class="command-header-bar"></div>
     <div class="command-header">
-      <span class="command-name"> stream start</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_stream_start_command</span>
+      <span class="command-name"> identify print</span>
+      <span class="command-handler">sli_zigbee_af_identify_cli_print</span>
     </div>
     <div class="command-info">
-      <div class="help">Start the stream test.</div>
-      
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> stream stop</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_stream_stop_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Stop the stream test.</div>
+      <div class="help">Print which endpoints are reporting.</div>
       
       
     </div>
   </div>
     </div>
-  </div>
-</div>
-<div class="group">
-  <div class="group-header">
-    <h4 class="group-name"> send</h4>
-  </div>
-  <div class="group-info">
-    <span class="help">send related commands</span>
-    
-    <div class="command-list">
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> send random</span>
-        <span class="command-argument">u16</span>
-        <span class="command-argument">u8</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_send_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Send a series of test packets with random data..</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">u16</span>The number of packets to send.
-        </li>
-        <li>
-        <span class="argument-name">u8</span>The length of the packet to send.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> send test</span>
-        <span class="command-argument">u16</span>
-        <span class="command-argument">u8</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_send_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Send a series of test packets with fixed data.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">u16</span>The number of packets to send.
-        </li>
-        <li>
-        <span class="argument-name">u8</span>The length of the packet to send.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    
-    
-  
-  <div class="command">
-    <div class="command-header-bar"></div>
-    <div class="command-header">
-      <span class="command-name"> send message</span>
-        <span class="command-argument">hex</span>
-        <span class="command-argument">u16</span>
-      <span class="command-handler">sli_zigbee_af_mfglib_send_message_command</span>
-    </div>
-    <div class="command-info">
-      <div class="help">Send a test message with the specified data in it.</div>
-      
-      
-      <div class="argument-list">
-      <div class="arguments-title">Arguments</div>
-      <ul>
-        <li>
-        <span class="argument-name">hex</span>The hex data to send, up to 16 bytes.
-        </li>
-        <li>
-        <span class="argument-name">u16</span>The number of packets to send.
-        </li>
-      </ul>
-      </div>
-      
-    </div>
-  </div>
-    </div>
-  </div>
-</div></div>
   </div>
 </div>
 <div class="group">
@@ -1934,6 +1601,47 @@ Example syntax (.slcc or .slcp) for populating this file:
         </li>
       </ul>
       </div>
+      
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
+<div class="group">
+  <div class="group-header">
+    <h3 class="group-name"> scenes</h3>
+  </div>
+  <div class="group-info">
+    <span class="help">scenes related commands.</span>
+    
+    <div class="command-list">
+    
+    
+  
+  <div class="command">
+    <div class="command-header-bar"></div>
+    <div class="command-header">
+      <span class="command-name"> scenes print</span>
+      <span class="command-handler">sli_plugin_scenes_server_print_info</span>
+    </div>
+    <div class="command-info">
+      <div class="help">Prints information about the contents of the scenes table.</div>
+      
+      
+    </div>
+  </div>
+    
+    
+  
+  <div class="command">
+    <div class="command-header-bar"></div>
+    <div class="command-header">
+      <span class="command-name"> scenes clear</span>
+      <span class="command-handler">sli_plugin_scenes_server_clear</span>
+    </div>
+    <div class="command-info">
+      <div class="help">Clears the scenes table on every endpoint.</div>
+      
       
     </div>
   </div>

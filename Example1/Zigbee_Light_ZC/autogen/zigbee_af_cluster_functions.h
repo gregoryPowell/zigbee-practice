@@ -21,10 +21,40 @@
 #include "af.h"
 
 
+void emberAfGroupsClusterServerInitCallback (uint8_t endpoint);
+void emberAfIdentifyClusterServerInitCallback (uint8_t endpoint);
+void emberAfIdentifyClusterServerAttributeChangedCallback (uint8_t endpoint, EmberAfAttributeId attributeId);
+void emberAfOnOffClusterServerInitCallback (uint8_t endpoint);
+void emberAfScenesClusterServerInitCallback (uint8_t endpoint);
 
 // Array of cluster function (aka cluster action callbacks) structures.
 // Last entry is a dummy, otherwise an empty array would fail IAR builds.
 #define GENERATED_FUNCTION_STRUCTURES_ARRAY  { \
+  {\
+    4u,\
+    (CLUSTER_MASK_SERVER | CLUSTER_MASK_INIT_FUNCTION),\
+    (EmberAfGenericClusterFunction)emberAfGroupsClusterServerInitCallback\
+  },\
+  {\
+    3u,\
+    (CLUSTER_MASK_SERVER | CLUSTER_MASK_INIT_FUNCTION),\
+    (EmberAfGenericClusterFunction)emberAfIdentifyClusterServerInitCallback\
+  },\
+  {\
+    3u,\
+    (CLUSTER_MASK_SERVER | CLUSTER_MASK_ATTRIBUTE_CHANGED_FUNCTION),\
+    (EmberAfGenericClusterFunction)emberAfIdentifyClusterServerAttributeChangedCallback\
+  },\
+  {\
+    6u,\
+    (CLUSTER_MASK_SERVER | CLUSTER_MASK_INIT_FUNCTION),\
+    (EmberAfGenericClusterFunction)emberAfOnOffClusterServerInitCallback\
+  },\
+  {\
+    5u,\
+    (CLUSTER_MASK_SERVER | CLUSTER_MASK_INIT_FUNCTION),\
+    (EmberAfGenericClusterFunction)emberAfScenesClusterServerInitCallback\
+  },\
   { 0x8000u,\
     0x00u,\
     (EmberAfGenericClusterFunction)((void *)0)\
@@ -38,4 +68,12 @@
 // can exist for a given cluster and side (client/server).
 // A compilation error in this structure indicates a duplicate "cluster_functions"
 // template contribution.
+
+struct unused_structure {
+int clust_4_server_init_function; 
+int clust_3_server_init_function; 
+int clust_3_server_attribute_changed_function; 
+int clust_6_server_init_function; 
+int clust_5_server_init_function; 
+};
 

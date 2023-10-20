@@ -21,5 +21,5 @@
 // *** Generated file. Do not edit! ***
 //
 
-#include "app/framework/plugin/manufacturing-library-cli/manufacturing-library-cli-tokens.h"
+#include "app/framework/plugin/scenes/scenes-tokens.h"
 

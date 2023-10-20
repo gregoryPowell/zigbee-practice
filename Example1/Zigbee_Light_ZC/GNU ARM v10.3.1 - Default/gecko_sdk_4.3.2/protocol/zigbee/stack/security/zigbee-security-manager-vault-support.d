@@ -104,7 +104,6 @@ gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager-vault-sup
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
  C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zigbee_af_token_headers.h \
- c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\plugin\manufacturing-library-cli\manufacturing-library-cli-tokens.h \
  C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zap-tokens.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\token_manager\inc\sl_token_manager_af_token_header.h \
  C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/sl_token_manager_config.h \
@@ -335,7 +334,6 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
 C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zigbee_af_token_headers.h:
-c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\plugin\manufacturing-library-cli\manufacturing-library-cli-tokens.h:
 C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/zap-tokens.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\token_manager\inc\sl_token_manager_af_token_header.h:
 C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/sl_token_manager_config.h:

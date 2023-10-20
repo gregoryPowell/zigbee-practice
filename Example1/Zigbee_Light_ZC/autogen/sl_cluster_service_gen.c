@@ -25,8 +25,23 @@
 
 extern uint32_t emberAfBasicClusterServerCommandParse(sl_service_opcode_t opcode,
                                                 sl_service_function_context_t *context);
+extern uint32_t emberAfGroupsClusterServerCommandParse(sl_service_opcode_t opcode,
+                                                sl_service_function_context_t *context);
+extern uint32_t emberAfIdentifyClusterServerCommandParse(sl_service_opcode_t opcode,
+                                                sl_service_function_context_t *context);
+extern uint32_t emberAfOnOffClusterServerCommandParse(sl_service_opcode_t opcode,
+                                                sl_service_function_context_t *context);
+extern uint32_t emberAfScenesClusterServerCommandParse(sl_service_opcode_t opcode,
+                                                sl_service_function_context_t *context);
+extern uint32_t emberAfZllIdentifyClusterServerCommandParse(sl_service_opcode_t opcode,
+                                                sl_service_function_context_t *context);
 
 
 const sl_service_function_entry_t sli_cluster_service_entries[] = {
   { SL_SERVICE_FUNCTION_TYPE_ZCL_COMMAND, 0x0000, (NOT_MFG_SPECIFIC | (SL_CLUSTER_SERVICE_SIDE_SERVER << 16)), emberAfBasicClusterServerCommandParse },
+  { SL_SERVICE_FUNCTION_TYPE_ZCL_COMMAND, 0x0004, (NOT_MFG_SPECIFIC | (SL_CLUSTER_SERVICE_SIDE_SERVER << 16)), emberAfGroupsClusterServerCommandParse },
+  { SL_SERVICE_FUNCTION_TYPE_ZCL_COMMAND, 0x0003, (NOT_MFG_SPECIFIC | (SL_CLUSTER_SERVICE_SIDE_SERVER << 16)), emberAfIdentifyClusterServerCommandParse },
+  { SL_SERVICE_FUNCTION_TYPE_ZCL_COMMAND, 0x0006, (NOT_MFG_SPECIFIC | (SL_CLUSTER_SERVICE_SIDE_SERVER << 16)), emberAfOnOffClusterServerCommandParse },
+  { SL_SERVICE_FUNCTION_TYPE_ZCL_COMMAND, 0x0005, (NOT_MFG_SPECIFIC | (SL_CLUSTER_SERVICE_SIDE_SERVER << 16)), emberAfScenesClusterServerCommandParse },
+  { SL_SERVICE_FUNCTION_TYPE_ZCL_COMMAND, 0x0003, (NOT_MFG_SPECIFIC | (SL_CLUSTER_SERVICE_SIDE_SERVER << 16)), emberAfZllIdentifyClusterServerCommandParse },
   };

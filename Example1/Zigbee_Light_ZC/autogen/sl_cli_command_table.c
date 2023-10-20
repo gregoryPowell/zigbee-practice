@@ -158,22 +158,9 @@ void sli_zigbee_debug_print_enable_core_type_command(sl_cli_command_arg_t *argum
 void sli_zigbee_debug_print_enable_app_type_command(sl_cli_command_arg_t *arguments);
 void sli_zigbee_debug_print_enable_zcl_type_command(sl_cli_command_arg_t *arguments);
 void sli_zigbee_debug_print_enable_legacy_af_debug_type_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_start_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_stop_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_tone_start_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_tone_stop_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_status_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_set_channel_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_set_power_and_mode_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_stream_start_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_stream_stop_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_send_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_send_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_send_message_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_sleep_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_program_eui_command(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_enable_mfglib(sl_cli_command_arg_t *arguments);
-void sli_zigbee_af_mfglib_set_options(sl_cli_command_arg_t *arguments);
+void sli_zigbee_af_groups_server_cli_print(sl_cli_command_arg_t *arguments);
+void sli_zigbee_af_groups_server_cli_clear(sl_cli_command_arg_t *arguments);
+void sli_zigbee_af_identify_cli_print(sl_cli_command_arg_t *arguments);
 void emberAfPluginNetworkCreatorStartCommand(sl_cli_command_arg_t *arguments);
 void emberAfPluginNetworkCreatorStop(sl_cli_command_arg_t *arguments);
 void emberAfPluginNetworkCreatorFormCommand(sl_cli_command_arg_t *arguments);
@@ -187,6 +174,8 @@ void sli_zigbee_af_network_creator_security_open_or_close_network_command(sl_cli
 void sli_zigbee_af_network_creator_security_open_or_close_network_command(sl_cli_command_arg_t *arguments);
 void sli_zigbee_af_network_creator_security_open_network_with_key_command(sl_cli_command_arg_t *arguments);
 void sli_zigbee_af_network_creator_security_configure_distributed_key(sl_cli_command_arg_t *arguments);
+void sli_plugin_scenes_server_print_info(sl_cli_command_arg_t *arguments);
+void sli_plugin_scenes_server_clear(sl_cli_command_arg_t *arguments);
 void networkFormCommand(sl_cli_command_arg_t *arguments);
 void networkJoinCommand(sl_cli_command_arg_t *arguments);
 void networkPermitJoinCommand(sl_cli_command_arg_t *arguments);
@@ -475,101 +464,23 @@ static const sl_cli_command_info_t cli_cmd_enable_type_legacy_af_debug = \
                   "Enable/disable" SL_CLI_UNIT_SEPARATOR,
                  {SL_CLI_ARG_UINT8, SL_CLI_ARG_END, });
 
-static const sl_cli_command_info_t cli_cmd_mfglib_start = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_start_command,
-                 "Start the mfglib test mode.",
-                  "Use the Rx callback." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_INT8, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_stop = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_stop_command,
-                 "Stop the mfglib test mode.",
+static const sl_cli_command_info_t cli_cmd_groups_hyphen_server_print = \
+  SL_CLI_COMMAND(sli_zigbee_af_groups_server_cli_print,
+                 "Prints information about the contents of the groups table.",
                   "",
                  {SL_CLI_ARG_END, });
 
-static const sl_cli_command_info_t cli_cmd_tone_start = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_tone_start_command,
-                 "Starts a tone test.",
+static const sl_cli_command_info_t cli_cmd_groups_hyphen_server_clear = \
+  SL_CLI_COMMAND(sli_zigbee_af_groups_server_cli_clear,
+                 "Clears the groups table on every endpoint",
                   "",
                  {SL_CLI_ARG_END, });
 
-static const sl_cli_command_info_t cli_cmd_tone_stop = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_tone_stop_command,
-                 "Stops the tone test.",
+static const sl_cli_command_info_t cli_cmd_identify_print = \
+  SL_CLI_COMMAND(sli_zigbee_af_identify_cli_print,
+                 "Print which endpoints are reporting.",
                   "",
                  {SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_status = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_status_command,
-                 "Prints the current status of the manufacturing library.",
-                  "",
-                 {SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_set_hyphen_channel = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_set_channel_command,
-                 "Sets the channel used by the manufacturing library for testing.",
-                  "The 802.15.4 channel number." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_UINT8, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_set_hyphen_power = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_set_power_and_mode_command,
-                 "Set the power level and mode for the manufacturing test.",
-                  "The power level" SL_CLI_UNIT_SEPARATOR "The power mode" SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_INT8, SL_CLI_ARG_UINT16, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_stream_start = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_stream_start_command,
-                 "Start the stream test.",
-                  "",
-                 {SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_stream_stop = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_stream_stop_command,
-                 "Stop the stream test.",
-                  "",
-                 {SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_send_random = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_send_command,
-                 "Send a series of test packets with random data..",
-                  "The number of packets to send." SL_CLI_UNIT_SEPARATOR "The length of the packet to send." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_UINT16, SL_CLI_ARG_UINT8, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_send_test = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_send_command,
-                 "Send a series of test packets with fixed data.",
-                  "The number of packets to send." SL_CLI_UNIT_SEPARATOR "The length of the packet to send." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_UINT16, SL_CLI_ARG_UINT8, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_send_message = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_send_message_command,
-                 "Send a test message with the specified data in it.",
-                  "The hex data to send, up to 16 bytes." SL_CLI_UNIT_SEPARATOR "The number of packets to send." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_HEX, SL_CLI_ARG_UINT16, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_sleep = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_sleep_command,
-                 "Sleep.",
-                  "Sleep duration (mS)." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_UINT16, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_programEui = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_program_eui_command,
-                 "Program EUI.",
-                  "IEEE address to program." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_HEX, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_mfgenable = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_enable_mfglib,
-                 "Enable mfglib.",
-                  "1 = enable, 0 = disable." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_UINT8, SL_CLI_ARG_END, });
-
-static const sl_cli_command_info_t cli_cmd_mfglib_set_hyphen_options = \
-  SL_CLI_COMMAND(sli_zigbee_af_mfglib_set_options,
-                 "Sets options in the manufacturing library for testing.",
-                  "The options bitmask (0 = normal transmit, 1 = CSMA transmit)." SL_CLI_UNIT_SEPARATOR,
-                 {SL_CLI_ARG_UINT8, SL_CLI_ARG_END, });
 
 static const sl_cli_command_info_t cli_cmd_network_hyphen_creator_start = \
   SL_CLI_COMMAND(emberAfPluginNetworkCreatorStartCommand,
@@ -648,6 +559,18 @@ static const sl_cli_command_info_t cli_cmd_network_hyphen_creator_hyphen_securit
                  "Sets the TC Link key for a distributed network.",
                   "The pre-configured distributed key that the joining device will use to enter the network" SL_CLI_UNIT_SEPARATOR,
                  {SL_CLI_ARG_HEX, SL_CLI_ARG_END, });
+
+static const sl_cli_command_info_t cli_cmd_scenes_print = \
+  SL_CLI_COMMAND(sli_plugin_scenes_server_print_info,
+                 "Prints information about the contents of the scenes table.",
+                  "",
+                 {SL_CLI_ARG_END, });
+
+static const sl_cli_command_info_t cli_cmd_scenes_clear = \
+  SL_CLI_COMMAND(sli_plugin_scenes_server_clear,
+                 "Clears the scenes table on every endpoint.",
+                  "",
+                 {SL_CLI_ARG_END, });
 
 static const sl_cli_command_info_t cli_cmd_network_form = \
   SL_CLI_COMMAND(networkFormCommand,
@@ -1138,48 +1061,20 @@ static const sl_cli_command_entry_t zigbee_print_group_table[] = {
 static const sl_cli_command_info_t cli_cmd_grp_zigbee_print = \
   SL_CLI_COMMAND_GROUP(zigbee_print_group_table, "");
 
-static const sl_cli_command_entry_t tone_group_table[] = {
-  { "start", &cli_cmd_tone_start, false },
-  { "stop", &cli_cmd_tone_stop, false },
+static const sl_cli_command_entry_t groups_hyphen_server_group_table[] = {
+  { "print", &cli_cmd_groups_hyphen_server_print, false },
+  { "clear", &cli_cmd_groups_hyphen_server_clear, false },
   { NULL, NULL, false },
 };
-static const sl_cli_command_info_t cli_cmd_grp_tone = \
-  SL_CLI_COMMAND_GROUP(tone_group_table, "tone related commands");
+static const sl_cli_command_info_t cli_cmd_grp_groups_hyphen_server = \
+  SL_CLI_COMMAND_GROUP(groups_hyphen_server_group_table, "groups-server related commands.");
 
-static const sl_cli_command_entry_t stream_group_table[] = {
-  { "start", &cli_cmd_stream_start, false },
-  { "stop", &cli_cmd_stream_stop, false },
+static const sl_cli_command_entry_t identify_group_table[] = {
+  { "print", &cli_cmd_identify_print, false },
   { NULL, NULL, false },
 };
-static const sl_cli_command_info_t cli_cmd_grp_stream = \
-  SL_CLI_COMMAND_GROUP(stream_group_table, "stream related commands");
-
-static const sl_cli_command_entry_t send_group_table[] = {
-  { "random", &cli_cmd_send_random, false },
-  { "test", &cli_cmd_send_test, false },
-  { "message", &cli_cmd_send_message, false },
-  { NULL, NULL, false },
-};
-static const sl_cli_command_info_t cli_cmd_grp_send = \
-  SL_CLI_COMMAND_GROUP(send_group_table, "send related commands");
-
-static const sl_cli_command_entry_t mfglib_group_table[] = {
-  { "start", &cli_cmd_mfglib_start, false },
-  { "stop", &cli_cmd_mfglib_stop, false },
-  { "status", &cli_cmd_mfglib_status, false },
-  { "set-channel", &cli_cmd_mfglib_set_hyphen_channel, false },
-  { "set-power", &cli_cmd_mfglib_set_hyphen_power, false },
-  { "sleep", &cli_cmd_mfglib_sleep, false },
-  { "programEui", &cli_cmd_mfglib_programEui, false },
-  { "mfgenable", &cli_cmd_mfglib_mfgenable, false },
-  { "set-options", &cli_cmd_mfglib_set_hyphen_options, false },
-  { "tone", &cli_cmd_grp_tone, false },
-  { "stream", &cli_cmd_grp_stream, false },
-  { "send", &cli_cmd_grp_send, false },
-  { NULL, NULL, false },
-};
-static const sl_cli_command_info_t cli_cmd_grp_mfglib = \
-  SL_CLI_COMMAND_GROUP(mfglib_group_table, "mfglib related commands");
+static const sl_cli_command_info_t cli_cmd_grp_identify = \
+  SL_CLI_COMMAND_GROUP(identify_group_table, "identify related commands");
 
 static const sl_cli_command_entry_t mask_group_table[] = {
   { "add", &cli_cmd_mask_add, false },
@@ -1213,12 +1108,22 @@ static const sl_cli_command_entry_t network_hyphen_creator_hyphen_security_group
 static const sl_cli_command_info_t cli_cmd_grp_network_hyphen_creator_hyphen_security = \
   SL_CLI_COMMAND_GROUP(network_hyphen_creator_hyphen_security_group_table, "network-creator-security related commands.");
 
+static const sl_cli_command_entry_t scenes_group_table[] = {
+  { "print", &cli_cmd_scenes_print, false },
+  { "clear", &cli_cmd_scenes_clear, false },
+  { NULL, NULL, false },
+};
+static const sl_cli_command_info_t cli_cmd_grp_scenes = \
+  SL_CLI_COMMAND_GROUP(scenes_group_table, "scenes related commands.");
+
 static const sl_cli_command_entry_t plugin_group_table[] = {
   { "idle-sleep", &cli_cmd_grp_idle_hyphen_sleep, false },
   { "counters", &cli_cmd_grp_counters, false },
-  { "mfglib", &cli_cmd_grp_mfglib, false },
+  { "groups-server", &cli_cmd_grp_groups_hyphen_server, false },
+  { "identify", &cli_cmd_grp_identify, false },
   { "network-creator", &cli_cmd_grp_network_hyphen_creator, false },
   { "network-creator-security", &cli_cmd_grp_network_hyphen_creator_hyphen_security, false },
+  { "scenes", &cli_cmd_grp_scenes, false },
   { NULL, NULL, false },
 };
 static const sl_cli_command_info_t cli_cmd_grp_plugin = \

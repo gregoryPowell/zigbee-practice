@@ -25,8 +25,8 @@
 void sli_zigbee_af_event_init(void);
 void sli_zigbee_af_zcl_framework_core_init_events_callback(uint8_t init_level);
 void sli_zigbee_af_service_discovery_init_events_callback(uint8_t init_level);
-void sli_zigbee_af_manufacturing_library_cli_init_callback(uint8_t init_level);
 void sli_zigbee_af_scan_dispatch_init_callback(uint8_t init_level);
+void sli_zigbee_af_zll_identify_server_init_callback(uint8_t init_level);
 // Local data Init
 void sli_zigbee_af_local_data_init(void);
 void emberAfPluginCountersInitCallback(uint8_t init_level);

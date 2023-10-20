@@ -24,8 +24,8 @@ void sli_zigbee_af_event_init(void)
 {
   sli_zigbee_af_zcl_framework_core_init_events_callback(SL_ZIGBEE_INIT_LEVEL_EVENT);
   sli_zigbee_af_service_discovery_init_events_callback(SL_ZIGBEE_INIT_LEVEL_EVENT);
-  sli_zigbee_af_manufacturing_library_cli_init_callback(SL_ZIGBEE_INIT_LEVEL_EVENT);
   sli_zigbee_af_scan_dispatch_init_callback(SL_ZIGBEE_INIT_LEVEL_EVENT);
+  sli_zigbee_af_zll_identify_server_init_callback(SL_ZIGBEE_INIT_LEVEL_EVENT);
 }
 
 void sli_zigbee_af_local_data_init(void)

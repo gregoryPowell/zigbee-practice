@@ -22,26 +22,29 @@ source:
 sdk: {id: gecko_sdk, version: 4.3.2}
 toolchain_settings: []
 component:
+- {id: EFR32MG21A020F1024IM32}
 - instance: [example]
   id: cli
-- {id: zigbee_manufacturing_library_cli}
 - {id: zigbee_security_link_keys}
 - {id: zigbee_application_bootloader}
 - {id: zigbee_binding_table}
-- {id: brd4187c}
 - {id: iostream_recommended_stream}
+- {id: zigbee_scenes}
 - instance: [led0]
   id: simple_led
 - {id: zigbee_zcl_framework_core}
-- {id: brd4002a}
-- {id: EFR32MG24B220F1536IM48}
+- {id: brd4180a}
 - {id: zigbee_counters}
+- {id: zigbee_zll_identify_server}
 - {id: zigbee_basic}
+- {id: brd4001a}
 - {id: zigbee_scan_dispatch}
 - {id: zigbee_source_route}
 - {id: zigbee_packet_validate}
+- {id: zigbee_groups_server}
 - {id: zigbee_pro_stack}
 - {id: zigbee_network_creator}
+- {id: zigbee_on_off}
 - {id: zigbee_debug_print}
 config_file:
 - {path: config/zcl/zcl_config.zap, directory: zcl}

@@ -67,14 +67,6 @@
 #define SL_RAIL_UTIL_PTI_DOUT_PIN                4
 #endif
 
-// PTI DFRAME on PD05
-#ifndef SL_RAIL_UTIL_PTI_DFRAME_PORT            
-#define SL_RAIL_UTIL_PTI_DFRAME_PORT             gpioPortD
-#endif
-#ifndef SL_RAIL_UTIL_PTI_DFRAME_PIN             
-#define SL_RAIL_UTIL_PTI_DFRAME_PIN              5
-#endif
-
 // [PTI_SL_RAIL_UTIL_PTI]$
 
 // <<< sl:end pin_tool >>>
