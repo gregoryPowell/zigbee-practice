@@ -50,10 +50,10 @@ gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_assert_error_codes.h \
  C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf_path.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_rail_util_rf_path_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_rail_util_rf_path_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_types.h
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail.h:
@@ -105,8 +105,8 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_assert_error_codes.h:
 C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf_path.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_rail_util_rf_path_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_rail_util_rf_path_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_types.h:

@@ -383,7 +383,7 @@ Discarded input sections
                 0x00000000       0x20 ./autogen/sl_iostream_handles.o
  .debug_ranges  0x00000000       0x30 ./autogen/sl_iostream_handles.o
  .debug_line    0x00000000      0x3a3 ./autogen/sl_iostream_handles.o
- .debug_str     0x00000000      0x357 ./autogen/sl_iostream_handles.o
+ .debug_str     0x00000000      0x356 ./autogen/sl_iostream_handles.o
  .comment       0x00000000       0x4a ./autogen/sl_iostream_handles.o
  .debug_frame   0x00000000       0x28 ./autogen/sl_iostream_handles.o
  .ARM.attributes
@@ -421,7 +421,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./autogen/sli_cli_hooks.o
  .debug_line    0x00000000       0x1d ./autogen/sli_cli_hooks.o
- .debug_str     0x00000000      0x201 ./autogen/sli_cli_hooks.o
+ .debug_str     0x00000000      0x200 ./autogen/sli_cli_hooks.o
  .comment       0x00000000       0x4a ./autogen/sli_cli_hooks.o
  .ARM.attributes
                 0x00000000       0x3a ./autogen/sli_cli_hooks.o
@@ -2535,7 +2535,7 @@ Discarded input sections
  .data          0x00000000        0x0 ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
  .bss           0x00000000        0x0 ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
  .debug_line    0x00000000        0x0 ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
- .debug_str     0x00000000      0x1a7 ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
+ .debug_str     0x00000000      0x1a6 ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/common/src/sl_assert.o
@@ -2641,7 +2641,7 @@ Discarded input sections
                 0x00000000       0x58 ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
  .debug_ranges  0x00000000       0x90 ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
  .debug_line    0x00000000      0x5b0 ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
- .debug_str     0x00000000      0x537 ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
+ .debug_str     0x00000000      0x536 ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
  .debug_frame   0x00000000       0xc0 ./gecko_sdk_4.3.2/platform/emlib/src/em_burtc.o
  .ARM.attributes
@@ -2846,7 +2846,7 @@ Discarded input sections
                 0x00000000       0x68 ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
  .debug_ranges  0x00000000       0x90 ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
  .debug_line    0x00000000      0x552 ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
- .debug_str     0x00000000     0x3a1b ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
+ .debug_str     0x00000000     0x3a1a ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
  .debug_frame   0x00000000       0xd0 ./gecko_sdk_4.3.2/platform/emlib/src/em_prs.o
  .ARM.attributes
@@ -2944,7 +2944,7 @@ Discarded input sections
                 0x00000000       0x48 ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
  .debug_ranges  0x00000000       0x68 ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
  .debug_line    0x00000000      0x72c ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
- .debug_str     0x00000000     0x2adb ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
+ .debug_str     0x00000000     0x2ada ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
  .debug_frame   0x00000000       0xb0 ./gecko_sdk_4.3.2/platform/emlib/src/em_timer.o
  .ARM.attributes
@@ -3125,7 +3125,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_attestation.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_attestation.o
- .debug_str     0x00000000      0x260 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_attestation.o
+ .debug_str     0x00000000      0x25f ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_attestation.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_attestation.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_attestation.o
@@ -3180,7 +3180,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
  .debug_ranges  0x00000000       0x28 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
  .debug_line    0x00000000      0x46d ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
- .debug_str     0x00000000      0x3ad ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
+ .debug_str     0x00000000      0x3ac ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
  .debug_frame   0x00000000       0x3c ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_entropy.o
  .ARM.attributes
@@ -3220,7 +3220,7 @@ Discarded input sections
                 0x00000000       0x58 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
  .debug_ranges  0x00000000       0xa8 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
  .debug_line    0x00000000      0x825 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
- .debug_str     0x00000000      0x69e ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
+ .debug_str     0x00000000      0x69d ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
  .debug_frame   0x00000000      0x108 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_hash.o
  .ARM.attributes
@@ -3268,7 +3268,7 @@ Discarded input sections
                 0x00000000       0x88 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
  .debug_ranges  0x00000000      0x198 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
  .debug_line    0x00000000     0x1100 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
- .debug_str     0x00000000      0x8f8 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
+ .debug_str     0x00000000      0x8f7 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
  .debug_frame   0x00000000      0x20c ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_derivation.o
  .ARM.attributes
@@ -3302,7 +3302,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
  .debug_ranges  0x00000000       0x48 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
  .debug_line    0x00000000      0x5f7 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
- .debug_str     0x00000000      0x59d ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
+ .debug_str     0x00000000      0x59c ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
  .debug_frame   0x00000000       0x68 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_signature.o
  .ARM.attributes
@@ -3390,7 +3390,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
  .debug_ranges  0x00000000       0x30 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
  .debug_line    0x00000000      0x2e6 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
- .debug_str     0x00000000      0x528 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
+ .debug_str     0x00000000      0x527 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
  .debug_frame   0x00000000       0x30 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_psa_crypto.o
  .ARM.attributes
@@ -3409,7 +3409,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
  .debug_line    0x00000000      0x1aa ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
- .debug_str     0x00000000      0x332 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
+ .debug_str     0x00000000      0x331 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
  .debug_frame   0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sli_psa_crypto.o
  .ARM.attributes
@@ -3426,7 +3426,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
  .debug_ranges  0x00000000       0x30 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
  .debug_line    0x00000000      0x304 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
- .debug_str     0x00000000      0x2fd ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
+ .debug_str     0x00000000      0x2fc ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
  .debug_frame   0x00000000       0x30 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_common.o
  .ARM.attributes
@@ -3445,7 +3445,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
  .debug_ranges  0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
  .debug_line    0x00000000      0x304 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
- .debug_str     0x00000000      0x2fe ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
+ .debug_str     0x00000000      0x2fd ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
  .debug_frame   0x00000000       0x40 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_driver_init.o
  .ARM.attributes
@@ -3462,7 +3462,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
  .debug_ranges  0x00000000       0x48 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
  .debug_line    0x00000000      0x49e ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
- .debug_str     0x00000000      0x43c ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
+ .debug_str     0x00000000      0x43b ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
  .debug_frame   0x00000000       0x40 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_psa_trng.o
  .ARM.attributes
@@ -3498,7 +3498,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_builtin_keys.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_builtin_keys.o
- .debug_str     0x00000000      0x264 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_builtin_keys.o
+ .debug_str     0x00000000      0x263 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_builtin_keys.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_builtin_keys.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_builtin_keys.o
@@ -3527,7 +3527,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
  .debug_line    0x00000000      0x2b1 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
- .debug_str     0x00000000      0x4f5 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
+ .debug_str     0x00000000      0x4f4 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
  .debug_frame   0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_derivation.o
  .ARM.attributes
@@ -3563,7 +3563,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
  .debug_line    0x00000000      0x308 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
- .debug_str     0x00000000      0x3c0 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
+ .debug_str     0x00000000      0x3bf ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
  .debug_frame   0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_mac.o
  .ARM.attributes
@@ -3594,7 +3594,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
  .debug_ranges  0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
  .debug_line    0x00000000      0x2d9 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
- .debug_str     0x00000000      0x61e ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
+ .debug_str     0x00000000      0x61d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
  .debug_frame   0x00000000       0x90 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_signature.o
  .ARM.attributes
@@ -3607,7 +3607,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_aead.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_aead.o
- .debug_str     0x00000000      0x25e ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_aead.o
+ .debug_str     0x00000000      0x25d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_aead.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_aead.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_aead.o
@@ -3619,7 +3619,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_cipher.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_cipher.o
- .debug_str     0x00000000      0x260 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_cipher.o
+ .debug_str     0x00000000      0x25f ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_cipher.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_cipher.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_cipher.o
@@ -3631,7 +3631,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_mac.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_mac.o
- .debug_str     0x00000000      0x25d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_mac.o
+ .debug_str     0x00000000      0x25c ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_mac.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_mac.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_driver_mac.o
@@ -3643,7 +3643,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_key_derivation.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_key_derivation.o
- .debug_str     0x00000000      0x261 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_key_derivation.o
+ .debug_str     0x00000000      0x260 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_key_derivation.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_key_derivation.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_opaque_key_derivation.o
@@ -3679,7 +3679,7 @@ Discarded input sections
                 0x00000000       0x70 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
  .debug_ranges  0x00000000       0x60 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
  .debug_line    0x00000000      0x586 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
- .debug_str     0x00000000      0xab6 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
+ .debug_str     0x00000000      0xab5 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
  .debug_frame   0x00000000      0x120 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_aead.o
  .ARM.attributes
@@ -3723,7 +3723,7 @@ Discarded input sections
                 0x00000000       0x48 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
  .debug_ranges  0x00000000       0x38 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
  .debug_line    0x00000000      0x42c ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
- .debug_str     0x00000000      0x50c ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
+ .debug_str     0x00000000      0x50b ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
  .debug_frame   0x00000000       0x70 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_hash.o
  .ARM.attributes
@@ -3752,7 +3752,7 @@ Discarded input sections
                 0x00000000       0x40 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
  .debug_ranges  0x00000000       0x30 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
  .debug_line    0x00000000      0x43d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
- .debug_str     0x00000000      0x67e ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
+ .debug_str     0x00000000      0x67d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
  .debug_frame   0x00000000       0x80 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_mac.o
  .ARM.attributes
@@ -3769,7 +3769,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
  .debug_line    0x00000000      0x32a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
- .debug_str     0x00000000      0x51b ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
+ .debug_str     0x00000000      0x51a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
  .debug_frame   0x00000000       0x20 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_key_derivation.o
  .ARM.attributes
@@ -3782,7 +3782,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_version_dependencies.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_version_dependencies.o
- .debug_str     0x00000000      0x265 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_version_dependencies.o
+ .debug_str     0x00000000      0x264 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_version_dependencies.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_version_dependencies.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_version_dependencies.o
@@ -4026,7 +4026,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_burtc.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_burtc.o
- .debug_str     0x00000000      0x250 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_burtc.o
+ .debug_str     0x00000000      0x24f ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_burtc.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_burtc.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_burtc.o
@@ -4038,7 +4038,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o
- .debug_str     0x00000000      0x251 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o
+ .debug_str     0x00000000      0x250 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_prortc.o
@@ -4061,7 +4061,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_timer.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_timer.o
- .debug_str     0x00000000      0x250 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_timer.o
+ .debug_str     0x00000000      0x24f ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_timer.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_timer.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_timer.o
@@ -4315,7 +4315,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-ota.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-ota.o
- .debug_str     0x00000000      0x253 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-ota.o
+ .debug_str     0x00000000      0x252 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-ota.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-ota.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-ota.o
@@ -4432,7 +4432,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
  .debug_line    0x00000000      0x445 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
- .debug_str     0x00000000     0x1786 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
+ .debug_str     0x00000000     0x1785 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
  .debug_frame   0x00000000       0x34 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-node.o
  .ARM.attributes
@@ -4463,7 +4463,7 @@ Discarded input sections
                 0x00000000       0x40 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
  .debug_ranges  0x00000000       0x70 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
  .debug_line    0x00000000      0x50f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
- .debug_str     0x00000000      0xf78 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
+ .debug_str     0x00000000      0xf77 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
  .debug_frame   0x00000000       0x88 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-security-common.o
  .ARM.attributes
@@ -5246,7 +5246,7 @@ Discarded input sections
                 0x00000000       0x58 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
  .debug_ranges  0x00000000       0x48 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
  .debug_line    0x00000000      0x297 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
- .debug_str     0x00000000      0x3cf ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
+ .debug_str     0x00000000      0x3ce ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
  .debug_frame   0x00000000       0xd4 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-extended-stub.o
  .ARM.attributes
@@ -5277,7 +5277,7 @@ Discarded input sections
                 0x00000000       0x50 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
  .debug_ranges  0x00000000       0x40 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
  .debug_line    0x00000000      0x21a ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
- .debug_str     0x00000000      0x385 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
+ .debug_str     0x00000000      0x384 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
  .debug_frame   0x00000000       0xb4 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/debug-stub.o
  .ARM.attributes
@@ -5527,7 +5527,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
  .debug_ranges  0x00000000       0x18 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
  .debug_line    0x00000000      0x27f ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
- .debug_str     0x00000000     0x12c5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
+ .debug_str     0x00000000     0x12c4 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
  .debug_frame   0x00000000       0x30 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_fragmentation_stubs.o
  .ARM.attributes
@@ -5683,7 +5683,7 @@ Discarded input sections
                 0x00000000       0x88 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
  .debug_ranges  0x00000000      0x140 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
  .debug_line    0x00000000      0xd7a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
- .debug_str     0x00000000     0x17f5 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
+ .debug_str     0x00000000     0x17f4 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
  .debug_frame   0x00000000      0x1b8 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher.o
  .ARM.attributes
@@ -5700,7 +5700,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher_wrap.o
  .debug_line    0x00000000       0xf5 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher_wrap.o
- .debug_str     0x00000000      0xf65 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher_wrap.o
+ .debug_str     0x00000000      0xf64 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher_wrap.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher_wrap.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/cipher_wrap.o
@@ -5722,7 +5722,7 @@ Discarded input sections
                 0x00000000       0x38 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
  .debug_ranges  0x00000000       0x40 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
  .debug_line    0x00000000      0x20b ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
- .debug_str     0x00000000      0x2c9 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
+ .debug_str     0x00000000      0x2c8 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
  .debug_frame   0x00000000       0x64 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/constant_time.o
  .ARM.attributes
@@ -5741,7 +5741,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
  .debug_ranges  0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
  .debug_line    0x00000000      0x117 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
- .debug_str     0x00000000      0x292 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
+ .debug_str     0x00000000      0x291 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
  .debug_frame   0x00000000       0x30 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform.o
  .ARM.attributes
@@ -5760,7 +5760,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
  .debug_line    0x00000000      0x124 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
- .debug_str     0x00000000      0x273 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
+ .debug_str     0x00000000      0x272 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
  .debug_frame   0x00000000       0x20 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/platform_util.o
  .ARM.attributes
@@ -5979,7 +5979,7 @@ Discarded input sections
                 0x00000000      0x340 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
  .debug_ranges  0x00000000      0x708 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
  .debug_line    0x00000000     0x3d2d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
- .debug_str     0x00000000     0x31e0 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
+ .debug_str     0x00000000     0x31df ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
  .debug_frame   0x00000000      0xc5c ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto.o
  .ARM.attributes
@@ -6014,7 +6014,7 @@ Discarded input sections
                 0x00000000       0x50 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
  .debug_ranges  0x00000000       0x40 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
  .debug_line    0x00000000      0x476 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
- .debug_str     0x00000000     0x1343 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
+ .debug_str     0x00000000     0x1342 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
  .debug_frame   0x00000000       0xd0 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_aead.o
  .ARM.attributes
@@ -6031,7 +6031,7 @@ Discarded input sections
                 0x00000000       0x20 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
  .debug_ranges  0x00000000       0x10 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
  .debug_line    0x00000000      0x2e2 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
- .debug_str     0x00000000      0xf05 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
+ .debug_str     0x00000000      0xf04 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
  .debug_frame   0x00000000       0x20 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_cipher.o
  .ARM.attributes
@@ -6151,7 +6151,7 @@ Discarded input sections
                 0x00000000      0x1a0 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
  .debug_ranges  0x00000000      0x190 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
  .debug_line    0x00000000     0x11f4 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
- .debug_str     0x00000000     0x27b9 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
+ .debug_str     0x00000000     0x27b8 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
  .debug_frame   0x00000000      0x710 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_driver_wrappers.o
  .ARM.attributes
@@ -6164,7 +6164,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_ecp.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_ecp.o
- .debug_str     0x00000000      0x248 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_ecp.o
+ .debug_str     0x00000000      0x247 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_ecp.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_ecp.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_ecp.o
@@ -6176,7 +6176,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_hash.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_hash.o
- .debug_str     0x00000000      0x249 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_hash.o
+ .debug_str     0x00000000      0x248 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_hash.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_hash.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_hash.o
@@ -6188,7 +6188,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_mac.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_mac.o
- .debug_str     0x00000000      0x248 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_mac.o
+ .debug_str     0x00000000      0x247 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_mac.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_mac.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_mac.o
@@ -6206,7 +6206,7 @@ Discarded input sections
                 0x00000000       0x28 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
  .debug_ranges  0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
  .debug_line    0x00000000      0x30e ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
- .debug_str     0x00000000      0x4a4 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
+ .debug_str     0x00000000      0x4a3 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
  .debug_frame   0x00000000       0x30 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_rsa.o
  .ARM.attributes
@@ -6219,7 +6219,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_se.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_se.o
- .debug_str     0x00000000      0x242 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_se.o
+ .debug_str     0x00000000      0x241 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_se.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_se.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_se.o
@@ -6265,7 +6265,7 @@ Discarded input sections
                 0x00000000       0x90 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
  .debug_ranges  0x00000000       0xc8 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
  .debug_line    0x00000000      0x9bd ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
- .debug_str     0x00000000      0x8c6 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
+ .debug_str     0x00000000      0x8c5 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
  .debug_frame   0x00000000      0x164 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_slot_management.o
  .ARM.attributes
@@ -6278,7 +6278,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_storage.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_storage.o
- .debug_str     0x00000000      0x247 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_storage.o
+ .debug_str     0x00000000      0x246 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_storage.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_storage.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_storage.o
@@ -6290,7 +6290,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/threading.o
  .debug_line    0x00000000       0x1d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/threading.o
- .debug_str     0x00000000      0x23e ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/threading.o
+ .debug_str     0x00000000      0x23d ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/threading.o
  .comment       0x00000000       0x4a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/threading.o
  .ARM.attributes
                 0x00000000       0x3a ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/threading.o
@@ -22738,618 +22738,618 @@ LOAD linker stubs
  .debug_ranges  0x00008278      0x200 ./gecko_sdk_4.3.2/util/third_party/printf/printf.o
  .debug_ranges  0x00008478       0x20 ./gecko_sdk_4.3.2/util/third_party/printf/src/iostream_printf.o
 
-.debug_line     0x00000000    0x5ac4f
- .debug_line    0x00000000      0x416 ./app.o
- .debug_line    0x00000416      0x178 ./main.o
- .debug_line    0x0000058e       0xb0 ./autogen/sl_board_default_init.o
- .debug_line    0x0000063e      0x2ce ./autogen/sl_cli_command_table.o
- .debug_line    0x0000090c      0x3ce ./autogen/sl_cli_instances.o
- .debug_line    0x00000cda      0x283 ./autogen/sl_cluster_service_gen.o
- .debug_line    0x00000f5d      0x290 ./autogen/sl_device_init_clocks.o
- .debug_line    0x000011ed      0xb09 ./autogen/sl_event_handler.o
- .debug_line    0x00001cf6      0x713 ./autogen/sl_iostream_init_usart_instances.o
- .debug_line    0x00002409      0x3e4 ./autogen/sl_power_manager_handler.o
- .debug_line    0x000027ed      0x33d ./autogen/sl_rail_util_ieee802154_phy_select.o
- .debug_line    0x00002b2a      0x21a ./autogen/sl_rail_util_ieee802154_stack_event.o
- .debug_line    0x00002d44      0x259 ./autogen/sl_simple_led_instances.o
- .debug_line    0x00002f9d      0x801 ./autogen/zap-cli.o
- .debug_line    0x0000379e     0x5c58 ./autogen/zap-cluster-command-parser.o
- .debug_line    0x000093f6      0x13c ./autogen/zap-event.o
- .debug_line    0x00009532       0xea ./autogen/zigbee_common_callback_dispatcher.o
- .debug_line    0x0000961c      0x5a0 ./autogen/zigbee_stack_callback_dispatcher.o
- .debug_line    0x00009bbc      0x328 ./autogen/zigbee_zcl_callback_dispatcher.o
- .debug_line    0x00009ee4      0x2e3 ./gecko_sdk_4.3.2/hardware/board/src/sl_board_control_gpio.o
- .debug_line    0x0000a1c7      0x1fb ./gecko_sdk_4.3.2/hardware/board/src/sl_board_init.o
- .debug_line    0x0000a3c2      0x51d ./gecko_sdk_4.3.2/hardware/driver/configuration_over_swo/src/sl_cos.o
- .debug_line    0x0000a8df      0x376 ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
- .debug_line    0x0000ac55      0x5da ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
- .debug_line    0x0000b22f     0x10a5 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface.o
- .debug_line    0x0000c2d4      0xdc4 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface_storage.o
- .debug_line    0x0000d098      0x1db ./gecko_sdk_4.3.2/platform/bootloader/app_properties/app_properties.o
- .debug_line    0x0000d273      0x298 ./gecko_sdk_4.3.2/platform/common/src/sl_slist.o
- .debug_line    0x0000d50b      0x514 ./gecko_sdk_4.3.2/platform/common/src/sl_string.o
- .debug_line    0x0000da1f      0x2ce ./gecko_sdk_4.3.2/platform/common/toolchain/src/sl_memory.o
- .debug_line    0x0000dced      0x5e8 ./gecko_sdk_4.3.2/platform/driver/debug/src/sl_debug_swo.o
- .debug_line    0x0000e2d5      0x285 ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_led.o
- .debug_line    0x0000e55a      0x50a ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_simple_led.o
- .debug_line    0x0000ea64      0xafb ./gecko_sdk_4.3.2/platform/emdrv/dmadrv/src/dmadrv.o
- .debug_line    0x0000f55f      0x30b ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_default_common_linker.o
- .debug_line    0x0000f86a      0x574 ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_hal_flash.o
- .debug_line    0x0000fdde      0x2ef ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_lock.o
- .debug_line    0x000100cd     0x2120 ./gecko_sdk_4.3.2/platform/emlib/src/em_cmu.o
- .debug_line    0x000121ed      0x94f ./gecko_sdk_4.3.2/platform/emlib/src/em_core.o
- .debug_line    0x00012b3c      0x628 ./gecko_sdk_4.3.2/platform/emlib/src/em_emu.o
- .debug_line    0x00013164      0x5c4 ./gecko_sdk_4.3.2/platform/emlib/src/em_gpio.o
- .debug_line    0x00013728      0x691 ./gecko_sdk_4.3.2/platform/emlib/src/em_ldma.o
- .debug_line    0x00013db9      0x934 ./gecko_sdk_4.3.2/platform/emlib/src/em_msc.o
- .debug_line    0x000146ed      0x3a0 ./gecko_sdk_4.3.2/platform/emlib/src/em_rmu.o
- .debug_line    0x00014a8d      0x4f3 ./gecko_sdk_4.3.2/platform/emlib/src/em_rtcc.o
- .debug_line    0x00014f80      0xa4f ./gecko_sdk_4.3.2/platform/emlib/src/em_se.o
- .debug_line    0x000159cf      0x487 ./gecko_sdk_4.3.2/platform/emlib/src/em_system.o
- .debug_line    0x00015e56      0xb25 ./gecko_sdk_4.3.2/platform/emlib/src/em_usart.o
- .debug_line    0x0001697b      0x3f9 ./gecko_sdk_4.3.2/platform/emlib/src/em_wdog.o
- .debug_line    0x00016d74      0x543 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/coexistence/protocol/ieee802154_uc/coexistence-802154.o
- .debug_line    0x000172b7      0x7be ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.o
- .debug_line    0x00017a75      0x22c ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.o
- .debug_line    0x00017ca1      0x39e ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_ant_div/sl_rail_util_ant_div.o
- .debug_line    0x0001803f      0x11b ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_power_manager_init/sl_rail_util_power_manager_init.o
- .debug_line    0x0001815a      0x2e0 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.o
- .debug_line    0x0001843a      0x2a0 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf_path.o
- .debug_line    0x000186da      0x508 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager.o
- .debug_line    0x00018be2     0x2ccc ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_cipher.o
- .debug_line    0x0001b8ae      0xde9 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_handling.o
- .debug_line    0x0001c697     0x1015 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_util.o
- .debug_line    0x0001d6ac      0x264 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_mbedtls.o
- .debug_line    0x0001d910      0xff4 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_aead.o
- .debug_line    0x0001e904      0xdd9 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_cipher.o
- .debug_line    0x0001f6dd      0x910 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_management.o
- .debug_line    0x0001ffed      0x682 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_cipher.o
- .debug_line    0x0002066f      0x699 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli.o
- .debug_line    0x00020d08      0x802 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_arguments.o
- .debug_line    0x0002150a      0xbd4 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_command.o
- .debug_line    0x000220de      0xcb0 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_input.o
- .debug_line    0x00022d8e      0x399 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_io.o
- .debug_line    0x00023127      0x3eb ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_tokenize.o
- .debug_line    0x00023512      0x2cd ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_emu_s2.o
- .debug_line    0x000237df      0x23e ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfrco.o
- .debug_line    0x00023a1d      0x32b ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfxo_s2.o
- .debug_line    0x00023d48      0x25c ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_lfxo_s2.o
- .debug_line    0x00023fa4      0x330 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_nvic.o
- .debug_line    0x000242d4      0x556 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream.o
- .debug_line    0x0002482a      0xe32 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_uart.o
- .debug_line    0x0002565c      0x9b3 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_usart.o
- .debug_line    0x0002600f     0x12ed ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/base-replacement.o
- .debug_line    0x000272fc      0x221 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/crc.o
- .debug_line    0x0002751d      0xdcc ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/diagnostic.o
- .debug_line    0x000282e9      0x2b8 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/ember-phy.o
- .debug_line    0x000285a1       0xb7 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/faults.o
- .debug_line    0x00028658      0x236 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/random.o
- .debug_line    0x0002888e      0x374 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/token_legacy.o
- .debug_line    0x00028c02      0x463 ./gecko_sdk_4.3.2/platform/service/legacy_hal_wdog/src/sl_legacy_hal_wdog.o
- .debug_line    0x00029065      0xa8a ./gecko_sdk_4.3.2/platform/service/legacy_printf/src/sl_legacy_printf.o
- .debug_line    0x00029aef      0xd32 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o
- .debug_line    0x0002a821      0x110 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_debug.o
- .debug_line    0x0002a931      0x92a ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_hal_s2.o
- .debug_line    0x0002b25b     0x1140 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer.o
- .debug_line    0x0002c39b      0x93c ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_rtcc.o
- .debug_line    0x0002ccd7      0x105 ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_init.o
- .debug_line    0x0002cddc      0x10e ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_process_action.o
- .debug_line    0x0002ceea      0x3ca ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_def.o
- .debug_line    0x0002d2b4      0x7af ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manager.o
- .debug_line    0x0002da63      0x991 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manufacturing.o
- .debug_line    0x0002e3f4      0xa0a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/core-cli.o
- .debug_line    0x0002edfe      0xaef ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/network-cli.o
- .debug_line    0x0002f8ed      0xbe1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/option-cli.o
- .debug_line    0x000304ce      0xb6c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/security-cli.o
- .debug_line    0x0003103a     0x1513 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zcl-cli.o
- .debug_line    0x0003254d      0xeee ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zdo-cli.o
- .debug_line    0x0003343b      0x881 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_common.o
- .debug_line    0x00033cbc      0x9e7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep.o
- .debug_line    0x000346a3      0x41c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_cli.o
- .debug_line    0x00034abf     0x11b3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_stack_cb.o
- .debug_line    0x00035c72       0xa7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_enhanced_routing.o
- .debug_line    0x00035d19      0x18b ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic-cb.o
- .debug_line    0x00035ea4      0x45f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic.o
- .debug_line    0x00036303      0x1f0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cb.o
- .debug_line    0x000364f3      0x723 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cli.o
- .debug_line    0x00036c16      0x55e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-soc.o
- .debug_line    0x00037174      0x558 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/debug-print/sl_zigbee_debug_print.o
- .debug_line    0x000376cc      0x2e1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cb.o
- .debug_line    0x000379ad      0x373 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cli.o
- .debug_line    0x00037d20      0xb80 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator.o
- .debug_line    0x000388a0      0x582 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-client/groups-client.o
- .debug_line    0x00038e22      0x1b4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cb.o
- .debug_line    0x00038fd6      0x4ee ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cli.o
- .debug_line    0x000394c4      0x2f4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-common.o
- .debug_line    0x000397b8      0xbd6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server.o
- .debug_line    0x0003a38e      0x1a3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cb.o
- .debug_line    0x0003a531      0x423 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cli.o
- .debug_line    0x0003a954      0x7c7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify.o
- .debug_line    0x0003b11b      0x2dc ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cb.o
- .debug_line    0x0003b3f7      0x60c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cli.o
- .debug_line    0x0003ba03      0xba3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator.o
- .debug_line    0x0003c5a6      0x77e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security-cli.o
- .debug_line    0x0003cd24      0x9bd ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security.o
- .debug_line    0x0003d6e1      0x18d ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off-cb.o
- .debug_line    0x0003d86e      0x5e1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off.o
- .debug_line    0x0003de4f      0x689 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scan-dispatch/scan-dispatch.o
- .debug_line    0x0003e4d8      0x252 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cb.o
- .debug_line    0x0003e72a      0x3b3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cli.o
- .debug_line    0x0003eadd     0x1347 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes.o
- .debug_line    0x0003fe24      0x6e9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes-client/scenes-client.o
- .debug_line    0x0004050d      0x389 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-cli.o
- .debug_line    0x00040896      0x329 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-custom-cluster-cli.o
- .debug_line    0x00040bbf      0x321 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-global-cli.o
- .debug_line    0x00040ee0      0x8c9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zll-identify-server/zll-identify-server.o
- .debug_line    0x000417a9      0x89e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-trust-center.o
- .debug_line    0x00042047      0x292 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/crypto-state.o
- .debug_line    0x000422d9      0x304 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/service-function/sl_service_function.o
- .debug_line    0x000425dd      0x400 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/signature-decode/sl_signature_decode.o
- .debug_line    0x000429dd     0x11d0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-common.o
- .debug_line    0x00043bad      0x77f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-event.o
- .debug_line    0x0004432c      0x5ca ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc-common.o
- .debug_line    0x000448f6      0xbb1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc.o
- .debug_line    0x000454a7      0x3e2 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-size.o
- .debug_line    0x00045889     0x18fc ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-storage.o
- .debug_line    0x00047185      0xcb9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-table.o
- .debug_line    0x00047e3e      0x95f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/client-api.o
- .debug_line    0x0004879d      0xb88 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-callback.o
- .debug_line    0x00049325      0x409 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-other-callback.o
- .debug_line    0x0004972e      0x906 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/message.o
- .debug_line    0x0004a034      0x443 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/multi-network.o
- .debug_line    0x0004a477      0x504 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print-formatter.o
- .debug_line    0x0004a97b      0x45c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print.o
- .debug_line    0x0004add7      0x5d9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-cluster-message.o
- .debug_line    0x0004b3b0      0xa09 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-global-message.o
- .debug_line    0x0004bdb9      0xe39 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-common.o
- .debug_line    0x0004cbf2      0x401 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-soc.o
- .debug_line    0x0004cff3      0x7d9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/time-util.o
- .debug_line    0x0004d7cc     0x1497 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/util.o
- .debug_line    0x0004ec63      0x397 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/zcl-util.o
- .debug_line    0x0004effa      0x57c ./gecko_sdk_4.3.2/protocol/zigbee/app/util/common/library.o
- .debug_line    0x0004f576      0x473 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/security/security-address-cache.o
- .debug_line    0x0004f9e9      0x580 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/serial/sl_zigbee_command_interpreter.o
- .debug_line    0x0004ff69      0x512 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-common.o
- .debug_line    0x0005047b      0x7e3 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-library.o
- .debug_line    0x00050c5e      0x3f5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration-access.o
- .debug_line    0x00051053      0x6ce ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration.o
- .debug_line    0x00051721      0x745 ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/ember-multi-network-stub.o
- .debug_line    0x00051e66      0x356 ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-common.o
- .debug_line    0x000521bc      0x2be ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-stub.o
- .debug_line    0x0005247a      0x683 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/aes-ecb.o
- .debug_line    0x00052afd      0x225 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/strong-random-api.o
- .debug_line    0x00052d22      0x2eb ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/zigbee-event-logger-stub-gen.o
- .debug_line    0x0005300d      0x421 ./gecko_sdk_4.3.2/protocol/zigbee/stack/gp/gp-stub.o
- .debug_line    0x0005342e      0x331 ./gecko_sdk_4.3.2/protocol/zigbee/stack/mac/mac-info-element-parsing-stub.o
- .debug_line    0x0005375f      0x487 ./gecko_sdk_4.3.2/protocol/zigbee/stack/routing/zigbee/enhanced-beacon-request-stub.o
- .debug_line    0x00053be6      0x33b ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-163k1-stub.o
- .debug_line    0x00053f21      0x2ad ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-283k1-stub.o
- .debug_line    0x000541ce      0x2be ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-sign-stub.o
- .debug_line    0x0005448c      0x236 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-283k1-stub.o
- .debug_line    0x000546c2      0x230 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-stub.o
- .debug_line    0x000548f2      0x2f6 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-stub.o
- .debug_line    0x00054be8      0x20b ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/install-code-stub.o
- .debug_line    0x00054df3     0x1003 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager-no-vault.o
- .debug_line    0x00055df6      0xc4a ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager.o
- .debug_line    0x00056a40      0x47c ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_dynamic_commissioning_stubs.o
- .debug_line    0x00056ebc      0x659 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_r23_misc_support_stubs.o
- .debug_line    0x00057515      0x26d ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sli_zigbee_zdo_cluster_filter_stubs.o
- .debug_line    0x00057782      0xb75 ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/aps-keys-full.o
- .debug_line    0x000582f7      0x2fb ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/end-device-bind-stub.o
- .debug_line    0x000585f2      0x3d9 ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/zdo-r22-stub.o
- .debug_line    0x000589cb      0x580 ./gecko_sdk_4.3.2/protocol/zigbee/stack/zll/zll-stubs.o
- .debug_line    0x00058f4b      0x387 ./gecko_sdk_4.3.2/util/silicon_labs/silabs_core/memory_manager/sl_malloc.o
- .debug_line    0x000592d2      0x3d9 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_client.o
- .debug_line    0x000596ab     0x122a ./gecko_sdk_4.3.2/util/third_party/printf/printf.o
- .debug_line    0x0005a8d5      0x37a ./gecko_sdk_4.3.2/util/third_party/printf/src/iostream_printf.o
+.debug_line     0x00000000    0x5ac34
+ .debug_line    0x00000000      0x415 ./app.o
+ .debug_line    0x00000415      0x178 ./main.o
+ .debug_line    0x0000058d       0xb0 ./autogen/sl_board_default_init.o
+ .debug_line    0x0000063d      0x2ce ./autogen/sl_cli_command_table.o
+ .debug_line    0x0000090b      0x3ce ./autogen/sl_cli_instances.o
+ .debug_line    0x00000cd9      0x283 ./autogen/sl_cluster_service_gen.o
+ .debug_line    0x00000f5c      0x290 ./autogen/sl_device_init_clocks.o
+ .debug_line    0x000011ec      0xb09 ./autogen/sl_event_handler.o
+ .debug_line    0x00001cf5      0x713 ./autogen/sl_iostream_init_usart_instances.o
+ .debug_line    0x00002408      0x3e4 ./autogen/sl_power_manager_handler.o
+ .debug_line    0x000027ec      0x33d ./autogen/sl_rail_util_ieee802154_phy_select.o
+ .debug_line    0x00002b29      0x21a ./autogen/sl_rail_util_ieee802154_stack_event.o
+ .debug_line    0x00002d43      0x259 ./autogen/sl_simple_led_instances.o
+ .debug_line    0x00002f9c      0x801 ./autogen/zap-cli.o
+ .debug_line    0x0000379d     0x5c57 ./autogen/zap-cluster-command-parser.o
+ .debug_line    0x000093f4      0x13c ./autogen/zap-event.o
+ .debug_line    0x00009530       0xea ./autogen/zigbee_common_callback_dispatcher.o
+ .debug_line    0x0000961a      0x5a0 ./autogen/zigbee_stack_callback_dispatcher.o
+ .debug_line    0x00009bba      0x328 ./autogen/zigbee_zcl_callback_dispatcher.o
+ .debug_line    0x00009ee2      0x2e3 ./gecko_sdk_4.3.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_line    0x0000a1c5      0x1fb ./gecko_sdk_4.3.2/hardware/board/src/sl_board_init.o
+ .debug_line    0x0000a3c0      0x51d ./gecko_sdk_4.3.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_line    0x0000a8dd      0x376 ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_line    0x0000ac53      0x5da ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_line    0x0000b22d     0x10a5 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface.o
+ .debug_line    0x0000c2d2      0xdc4 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface_storage.o
+ .debug_line    0x0000d096      0x1db ./gecko_sdk_4.3.2/platform/bootloader/app_properties/app_properties.o
+ .debug_line    0x0000d271      0x298 ./gecko_sdk_4.3.2/platform/common/src/sl_slist.o
+ .debug_line    0x0000d509      0x514 ./gecko_sdk_4.3.2/platform/common/src/sl_string.o
+ .debug_line    0x0000da1d      0x2ce ./gecko_sdk_4.3.2/platform/common/toolchain/src/sl_memory.o
+ .debug_line    0x0000dceb      0x5e8 ./gecko_sdk_4.3.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_line    0x0000e2d3      0x285 ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_led.o
+ .debug_line    0x0000e558      0x50a ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_simple_led.o
+ .debug_line    0x0000ea62      0xafb ./gecko_sdk_4.3.2/platform/emdrv/dmadrv/src/dmadrv.o
+ .debug_line    0x0000f55d      0x30b ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_default_common_linker.o
+ .debug_line    0x0000f868      0x574 ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_hal_flash.o
+ .debug_line    0x0000fddc      0x2ef ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_lock.o
+ .debug_line    0x000100cb     0x2120 ./gecko_sdk_4.3.2/platform/emlib/src/em_cmu.o
+ .debug_line    0x000121eb      0x94f ./gecko_sdk_4.3.2/platform/emlib/src/em_core.o
+ .debug_line    0x00012b3a      0x628 ./gecko_sdk_4.3.2/platform/emlib/src/em_emu.o
+ .debug_line    0x00013162      0x5c4 ./gecko_sdk_4.3.2/platform/emlib/src/em_gpio.o
+ .debug_line    0x00013726      0x691 ./gecko_sdk_4.3.2/platform/emlib/src/em_ldma.o
+ .debug_line    0x00013db7      0x934 ./gecko_sdk_4.3.2/platform/emlib/src/em_msc.o
+ .debug_line    0x000146eb      0x3a0 ./gecko_sdk_4.3.2/platform/emlib/src/em_rmu.o
+ .debug_line    0x00014a8b      0x4f3 ./gecko_sdk_4.3.2/platform/emlib/src/em_rtcc.o
+ .debug_line    0x00014f7e      0xa4f ./gecko_sdk_4.3.2/platform/emlib/src/em_se.o
+ .debug_line    0x000159cd      0x487 ./gecko_sdk_4.3.2/platform/emlib/src/em_system.o
+ .debug_line    0x00015e54      0xb25 ./gecko_sdk_4.3.2/platform/emlib/src/em_usart.o
+ .debug_line    0x00016979      0x3f9 ./gecko_sdk_4.3.2/platform/emlib/src/em_wdog.o
+ .debug_line    0x00016d72      0x543 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/coexistence/protocol/ieee802154_uc/coexistence-802154.o
+ .debug_line    0x000172b5      0x7be ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.o
+ .debug_line    0x00017a73      0x22c ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.o
+ .debug_line    0x00017c9f      0x39e ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_ant_div/sl_rail_util_ant_div.o
+ .debug_line    0x0001803d      0x11b ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_power_manager_init/sl_rail_util_power_manager_init.o
+ .debug_line    0x00018158      0x2e0 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.o
+ .debug_line    0x00018438      0x2a0 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf_path.o
+ .debug_line    0x000186d8      0x508 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager.o
+ .debug_line    0x00018be0     0x2ccc ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_cipher.o
+ .debug_line    0x0001b8ac      0xde9 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_handling.o
+ .debug_line    0x0001c695     0x1015 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_util.o
+ .debug_line    0x0001d6aa      0x264 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_mbedtls.o
+ .debug_line    0x0001d90e      0xff4 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_aead.o
+ .debug_line    0x0001e902      0xdd9 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_cipher.o
+ .debug_line    0x0001f6db      0x910 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_management.o
+ .debug_line    0x0001ffeb      0x682 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_cipher.o
+ .debug_line    0x0002066d      0x699 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli.o
+ .debug_line    0x00020d06      0x802 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_arguments.o
+ .debug_line    0x00021508      0xbd4 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_command.o
+ .debug_line    0x000220dc      0xcb0 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_input.o
+ .debug_line    0x00022d8c      0x399 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_io.o
+ .debug_line    0x00023125      0x3eb ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_tokenize.o
+ .debug_line    0x00023510      0x2cd ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_line    0x000237dd      0x23e ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfrco.o
+ .debug_line    0x00023a1b      0x32b ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfxo_s2.o
+ .debug_line    0x00023d46      0x25c ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_lfxo_s2.o
+ .debug_line    0x00023fa2      0x330 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_nvic.o
+ .debug_line    0x000242d2      0x556 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream.o
+ .debug_line    0x00024828      0xe32 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_uart.o
+ .debug_line    0x0002565a      0x9b3 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_usart.o
+ .debug_line    0x0002600d     0x12ec ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/base-replacement.o
+ .debug_line    0x000272f9      0x221 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/crc.o
+ .debug_line    0x0002751a      0xdcc ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/diagnostic.o
+ .debug_line    0x000282e6      0x2b8 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/ember-phy.o
+ .debug_line    0x0002859e       0xb7 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/faults.o
+ .debug_line    0x00028655      0x236 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/random.o
+ .debug_line    0x0002888b      0x374 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/token_legacy.o
+ .debug_line    0x00028bff      0x463 ./gecko_sdk_4.3.2/platform/service/legacy_hal_wdog/src/sl_legacy_hal_wdog.o
+ .debug_line    0x00029062      0xa8a ./gecko_sdk_4.3.2/platform/service/legacy_printf/src/sl_legacy_printf.o
+ .debug_line    0x00029aec      0xd32 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o
+ .debug_line    0x0002a81e      0x110 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_debug.o
+ .debug_line    0x0002a92e      0x92a ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_hal_s2.o
+ .debug_line    0x0002b258     0x1140 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer.o
+ .debug_line    0x0002c398      0x93c ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_rtcc.o
+ .debug_line    0x0002ccd4      0x104 ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_init.o
+ .debug_line    0x0002cdd8      0x10d ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_process_action.o
+ .debug_line    0x0002cee5      0x3ca ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_def.o
+ .debug_line    0x0002d2af      0x7af ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manager.o
+ .debug_line    0x0002da5e      0x991 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manufacturing.o
+ .debug_line    0x0002e3ef      0xa0a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/core-cli.o
+ .debug_line    0x0002edf9      0xaef ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/network-cli.o
+ .debug_line    0x0002f8e8      0xbe1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/option-cli.o
+ .debug_line    0x000304c9      0xb6c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/security-cli.o
+ .debug_line    0x00031035     0x1512 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zcl-cli.o
+ .debug_line    0x00032547      0xeee ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zdo-cli.o
+ .debug_line    0x00033435      0x881 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_common.o
+ .debug_line    0x00033cb6      0x9e7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep.o
+ .debug_line    0x0003469d      0x41c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_cli.o
+ .debug_line    0x00034ab9     0x11b2 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_stack_cb.o
+ .debug_line    0x00035c6b       0xa7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_enhanced_routing.o
+ .debug_line    0x00035d12      0x18b ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic-cb.o
+ .debug_line    0x00035e9d      0x45e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic.o
+ .debug_line    0x000362fb      0x1f0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cb.o
+ .debug_line    0x000364eb      0x723 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cli.o
+ .debug_line    0x00036c0e      0x55e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-soc.o
+ .debug_line    0x0003716c      0x558 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/debug-print/sl_zigbee_debug_print.o
+ .debug_line    0x000376c4      0x2e1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cb.o
+ .debug_line    0x000379a5      0x373 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cli.o
+ .debug_line    0x00037d18      0xb7f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator.o
+ .debug_line    0x00038897      0x581 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-client/groups-client.o
+ .debug_line    0x00038e18      0x1b4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cb.o
+ .debug_line    0x00038fcc      0x4ee ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cli.o
+ .debug_line    0x000394ba      0x2f4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-common.o
+ .debug_line    0x000397ae      0xbd5 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server.o
+ .debug_line    0x0003a383      0x1a3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cb.o
+ .debug_line    0x0003a526      0x423 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cli.o
+ .debug_line    0x0003a949      0x7c6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify.o
+ .debug_line    0x0003b10f      0x2dc ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cb.o
+ .debug_line    0x0003b3eb      0x60c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cli.o
+ .debug_line    0x0003b9f7      0xba3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator.o
+ .debug_line    0x0003c59a      0x77e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security-cli.o
+ .debug_line    0x0003cd18      0x9bd ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security.o
+ .debug_line    0x0003d6d5      0x18d ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off-cb.o
+ .debug_line    0x0003d862      0x5e0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off.o
+ .debug_line    0x0003de42      0x689 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scan-dispatch/scan-dispatch.o
+ .debug_line    0x0003e4cb      0x251 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cb.o
+ .debug_line    0x0003e71c      0x3b3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cli.o
+ .debug_line    0x0003eacf     0x1346 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes.o
+ .debug_line    0x0003fe15      0x6e8 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes-client/scenes-client.o
+ .debug_line    0x000404fd      0x389 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-cli.o
+ .debug_line    0x00040886      0x329 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-custom-cluster-cli.o
+ .debug_line    0x00040baf      0x321 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-global-cli.o
+ .debug_line    0x00040ed0      0x8c8 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zll-identify-server/zll-identify-server.o
+ .debug_line    0x00041798      0x89e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-trust-center.o
+ .debug_line    0x00042036      0x292 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/crypto-state.o
+ .debug_line    0x000422c8      0x303 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/service-function/sl_service_function.o
+ .debug_line    0x000425cb      0x400 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/signature-decode/sl_signature_decode.o
+ .debug_line    0x000429cb     0x11cf ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-common.o
+ .debug_line    0x00043b9a      0x77f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-event.o
+ .debug_line    0x00044319      0x5ca ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc-common.o
+ .debug_line    0x000448e3      0xbb1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc.o
+ .debug_line    0x00045494      0x3e1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-size.o
+ .debug_line    0x00045875     0x18fb ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-storage.o
+ .debug_line    0x00047170      0xcb8 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-table.o
+ .debug_line    0x00047e28      0x95f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/client-api.o
+ .debug_line    0x00048787      0xb87 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-callback.o
+ .debug_line    0x0004930e      0x408 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-other-callback.o
+ .debug_line    0x00049716      0x906 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/message.o
+ .debug_line    0x0004a01c      0x443 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/multi-network.o
+ .debug_line    0x0004a45f      0x504 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print-formatter.o
+ .debug_line    0x0004a963      0x45c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print.o
+ .debug_line    0x0004adbf      0x5d8 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-cluster-message.o
+ .debug_line    0x0004b397      0xa08 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-global-message.o
+ .debug_line    0x0004bd9f      0xe39 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-common.o
+ .debug_line    0x0004cbd8      0x401 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-soc.o
+ .debug_line    0x0004cfd9      0x7d9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/time-util.o
+ .debug_line    0x0004d7b2     0x1496 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/util.o
+ .debug_line    0x0004ec48      0x397 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/zcl-util.o
+ .debug_line    0x0004efdf      0x57c ./gecko_sdk_4.3.2/protocol/zigbee/app/util/common/library.o
+ .debug_line    0x0004f55b      0x473 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/security/security-address-cache.o
+ .debug_line    0x0004f9ce      0x580 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/serial/sl_zigbee_command_interpreter.o
+ .debug_line    0x0004ff4e      0x512 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-common.o
+ .debug_line    0x00050460      0x7e3 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-library.o
+ .debug_line    0x00050c43      0x3f5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration-access.o
+ .debug_line    0x00051038      0x6ce ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration.o
+ .debug_line    0x00051706      0x745 ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/ember-multi-network-stub.o
+ .debug_line    0x00051e4b      0x356 ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-common.o
+ .debug_line    0x000521a1      0x2be ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-stub.o
+ .debug_line    0x0005245f      0x683 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/aes-ecb.o
+ .debug_line    0x00052ae2      0x225 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/strong-random-api.o
+ .debug_line    0x00052d07      0x2eb ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/zigbee-event-logger-stub-gen.o
+ .debug_line    0x00052ff2      0x421 ./gecko_sdk_4.3.2/protocol/zigbee/stack/gp/gp-stub.o
+ .debug_line    0x00053413      0x331 ./gecko_sdk_4.3.2/protocol/zigbee/stack/mac/mac-info-element-parsing-stub.o
+ .debug_line    0x00053744      0x487 ./gecko_sdk_4.3.2/protocol/zigbee/stack/routing/zigbee/enhanced-beacon-request-stub.o
+ .debug_line    0x00053bcb      0x33b ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-163k1-stub.o
+ .debug_line    0x00053f06      0x2ad ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-283k1-stub.o
+ .debug_line    0x000541b3      0x2be ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-sign-stub.o
+ .debug_line    0x00054471      0x236 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-283k1-stub.o
+ .debug_line    0x000546a7      0x230 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-stub.o
+ .debug_line    0x000548d7      0x2f6 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-stub.o
+ .debug_line    0x00054bcd      0x20b ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/install-code-stub.o
+ .debug_line    0x00054dd8     0x1003 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager-no-vault.o
+ .debug_line    0x00055ddb      0xc4a ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager.o
+ .debug_line    0x00056a25      0x47c ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_dynamic_commissioning_stubs.o
+ .debug_line    0x00056ea1      0x659 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_r23_misc_support_stubs.o
+ .debug_line    0x000574fa      0x26d ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sli_zigbee_zdo_cluster_filter_stubs.o
+ .debug_line    0x00057767      0xb75 ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/aps-keys-full.o
+ .debug_line    0x000582dc      0x2fb ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/end-device-bind-stub.o
+ .debug_line    0x000585d7      0x3d9 ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/zdo-r22-stub.o
+ .debug_line    0x000589b0      0x580 ./gecko_sdk_4.3.2/protocol/zigbee/stack/zll/zll-stubs.o
+ .debug_line    0x00058f30      0x387 ./gecko_sdk_4.3.2/util/silicon_labs/silabs_core/memory_manager/sl_malloc.o
+ .debug_line    0x000592b7      0x3d9 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_client.o
+ .debug_line    0x00059690     0x122a ./gecko_sdk_4.3.2/util/third_party/printf/printf.o
+ .debug_line    0x0005a8ba      0x37a ./gecko_sdk_4.3.2/util/third_party/printf/src/iostream_printf.o
 
-.debug_str      0x00000000    0x52a56
- .debug_str     0x00000000      0x887 ./app.o
-                                0x92e (size before relaxing)
- .debug_str     0x00000887       0x49 ./main.o
-                                0x24a (size before relaxing)
- .debug_str     0x000008d0       0x4f ./autogen/sl_board_default_init.o
-                                0x22a (size before relaxing)
- .debug_str     0x0000091f     0x1742 ./autogen/sl_cli_command_table.o
-                               0x19e1 (size before relaxing)
- .debug_str     0x00002061      0x218 ./autogen/sl_cli_instances.o
-                                0x69e (size before relaxing)
- .debug_str     0x00002279      0x620 ./autogen/sl_cluster_service_gen.o
-                                0x85d (size before relaxing)
- .debug_str     0x00002899      0x7d1 ./autogen/sl_device_init_clocks.o
-                                0xa47 (size before relaxing)
- .debug_str     0x0000306a      0x433 ./autogen/sl_event_handler.o
-                                0xe95 (size before relaxing)
- .debug_str     0x0000349d     0x2226 ./autogen/sl_iostream_init_usart_instances.o
-                               0x2921 (size before relaxing)
- .debug_str     0x000056c3      0x1be ./autogen/sl_power_manager_handler.o
-                                0x430 (size before relaxing)
- .debug_str     0x00005881      0x43d ./autogen/sl_rail_util_ieee802154_phy_select.o
-                                0x679 (size before relaxing)
- .debug_str     0x00005cbe       0x52 ./autogen/sl_rail_util_ieee802154_stack_event.o
-                                0x2ee (size before relaxing)
- .debug_str     0x00005d10       0x8c ./autogen/sl_simple_led_instances.o
-                                0x35f (size before relaxing)
- .debug_str     0x00005d9c      0xb87 ./autogen/zap-cli.o
-                               0x152d (size before relaxing)
- .debug_str     0x00006923    0x20154 ./autogen/zap-cluster-command-parser.o
-                              0x20e74 (size before relaxing)
- .debug_str     0x00026a77       0x66 ./autogen/zap-event.o
-                                0x267 (size before relaxing)
- .debug_str     0x00026add      0x235 ./autogen/zigbee_common_callback_dispatcher.o
-                                0x41b (size before relaxing)
- .debug_str     0x00026d12      0xedd ./autogen/zigbee_stack_callback_dispatcher.o
-                               0x1343 (size before relaxing)
- .debug_str     0x00027bef      0x1ea ./autogen/zigbee_zcl_callback_dispatcher.o
-                                0x633 (size before relaxing)
- .debug_str     0x00027dd9      0x299 ./gecko_sdk_4.3.2/hardware/board/src/sl_board_control_gpio.o
-                                0x6c0 (size before relaxing)
- .debug_str     0x00028072       0x63 ./gecko_sdk_4.3.2/hardware/board/src/sl_board_init.o
-                                0x534 (size before relaxing)
- .debug_str     0x000280d5      0x357 ./gecko_sdk_4.3.2/hardware/driver/configuration_over_swo/src/sl_cos.o
-                                0x5e2 (size before relaxing)
- .debug_str     0x0002842c      0x229 ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
-                                0x47a (size before relaxing)
- .debug_str     0x00028655      0x6a3 ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
-                               0x144e (size before relaxing)
- .debug_str     0x00028cf8      0xd81 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface.o
-                               0x20d7 (size before relaxing)
- .debug_str     0x00029a79      0x350 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface_storage.o
-                                0xb84 (size before relaxing)
- .debug_str     0x00029dc9       0x64 ./gecko_sdk_4.3.2/platform/bootloader/app_properties/app_properties.o
-                                0x371 (size before relaxing)
- .debug_str     0x00029e2d       0xf9 ./gecko_sdk_4.3.2/platform/common/src/sl_slist.o
-                                0x307 (size before relaxing)
- .debug_str     0x00029f26       0xff ./gecko_sdk_4.3.2/platform/common/src/sl_string.o
-                                0x31c (size before relaxing)
- .debug_str     0x0002a025       0xe3 ./gecko_sdk_4.3.2/platform/common/toolchain/src/sl_memory.o
-                                0x2fa (size before relaxing)
- .debug_str     0x0002a108      0x338 ./gecko_sdk_4.3.2/platform/driver/debug/src/sl_debug_swo.o
-                               0x1988 (size before relaxing)
- .debug_str     0x0002a440       0x7e ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_led.o
-                                0x2fd (size before relaxing)
- .debug_str     0x0002a4be       0xfa ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_simple_led.o
-                               0x117b (size before relaxing)
- .debug_str     0x0002a5b8      0x970 ./gecko_sdk_4.3.2/platform/emdrv/dmadrv/src/dmadrv.o
-                               0x10bb (size before relaxing)
- .debug_str     0x0002af28      0x136 ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_default_common_linker.o
-                                0x615 (size before relaxing)
- .debug_str     0x0002b05e      0x20d ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_hal_flash.o
-                                0x621 (size before relaxing)
- .debug_str     0x0002b26b      0x211 ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_lock.o
-                                0x46f (size before relaxing)
- .debug_str     0x0002b47c     0x161a ./gecko_sdk_4.3.2/platform/emlib/src/em_cmu.o
-                               0x2ec3 (size before relaxing)
- .debug_str     0x0002ca96      0x30a ./gecko_sdk_4.3.2/platform/emlib/src/em_core.o
-                                0xa88 (size before relaxing)
- .debug_str     0x0002cda0      0x4f8 ./gecko_sdk_4.3.2/platform/emlib/src/em_emu.o
-                                0xd7f (size before relaxing)
- .debug_str     0x0002d298      0x115 ./gecko_sdk_4.3.2/platform/emlib/src/em_gpio.o
-                               0x1156 (size before relaxing)
- .debug_str     0x0002d3ad       0xb8 ./gecko_sdk_4.3.2/platform/emlib/src/em_ldma.o
-                               0x12a9 (size before relaxing)
- .debug_str     0x0002d465      0x1f2 ./gecko_sdk_4.3.2/platform/emlib/src/em_msc.o
-                               0x109b (size before relaxing)
- .debug_str     0x0002d657      0x16f ./gecko_sdk_4.3.2/platform/emlib/src/em_rmu.o
-                                0x7a7 (size before relaxing)
- .debug_str     0x0002d7c6     0x2133 ./gecko_sdk_4.3.2/platform/emlib/src/em_rtcc.o
-                               0x260c (size before relaxing)
- .debug_str     0x0002f8f9      0x474 ./gecko_sdk_4.3.2/platform/emlib/src/em_se.o
+.debug_str      0x00000000    0x52a55
+ .debug_str     0x00000000      0x886 ./app.o
+                                0x92d (size before relaxing)
+ .debug_str     0x00000886       0x49 ./main.o
+                                0x249 (size before relaxing)
+ .debug_str     0x000008cf       0x4f ./autogen/sl_board_default_init.o
+                                0x229 (size before relaxing)
+ .debug_str     0x0000091e     0x1742 ./autogen/sl_cli_command_table.o
+                               0x19e0 (size before relaxing)
+ .debug_str     0x00002060      0x218 ./autogen/sl_cli_instances.o
+                                0x69d (size before relaxing)
+ .debug_str     0x00002278      0x620 ./autogen/sl_cluster_service_gen.o
+                                0x85c (size before relaxing)
+ .debug_str     0x00002898      0x7d1 ./autogen/sl_device_init_clocks.o
+                                0xa46 (size before relaxing)
+ .debug_str     0x00003069      0x433 ./autogen/sl_event_handler.o
+                                0xe94 (size before relaxing)
+ .debug_str     0x0000349c     0x2226 ./autogen/sl_iostream_init_usart_instances.o
+                               0x2920 (size before relaxing)
+ .debug_str     0x000056c2      0x1be ./autogen/sl_power_manager_handler.o
+                                0x42f (size before relaxing)
+ .debug_str     0x00005880      0x43d ./autogen/sl_rail_util_ieee802154_phy_select.o
+                                0x678 (size before relaxing)
+ .debug_str     0x00005cbd       0x52 ./autogen/sl_rail_util_ieee802154_stack_event.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00005d0f       0x8c ./autogen/sl_simple_led_instances.o
+                                0x35e (size before relaxing)
+ .debug_str     0x00005d9b      0xb87 ./autogen/zap-cli.o
+                               0x152c (size before relaxing)
+ .debug_str     0x00006922    0x20154 ./autogen/zap-cluster-command-parser.o
+                              0x20e73 (size before relaxing)
+ .debug_str     0x00026a76       0x66 ./autogen/zap-event.o
+                                0x266 (size before relaxing)
+ .debug_str     0x00026adc      0x235 ./autogen/zigbee_common_callback_dispatcher.o
+                                0x41a (size before relaxing)
+ .debug_str     0x00026d11      0xedd ./autogen/zigbee_stack_callback_dispatcher.o
+                               0x1342 (size before relaxing)
+ .debug_str     0x00027bee      0x1ea ./autogen/zigbee_zcl_callback_dispatcher.o
+                                0x632 (size before relaxing)
+ .debug_str     0x00027dd8      0x299 ./gecko_sdk_4.3.2/hardware/board/src/sl_board_control_gpio.o
+                                0x6bf (size before relaxing)
+ .debug_str     0x00028071       0x63 ./gecko_sdk_4.3.2/hardware/board/src/sl_board_init.o
+                                0x533 (size before relaxing)
+ .debug_str     0x000280d4      0x357 ./gecko_sdk_4.3.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+                                0x5e1 (size before relaxing)
+ .debug_str     0x0002842b      0x229 ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                                0x479 (size before relaxing)
+ .debug_str     0x00028654      0x6a3 ./gecko_sdk_4.3.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                               0x144d (size before relaxing)
+ .debug_str     0x00028cf7      0xd81 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface.o
+                               0x20d6 (size before relaxing)
+ .debug_str     0x00029a78      0x350 ./gecko_sdk_4.3.2/platform/bootloader/api/btl_interface_storage.o
+                                0xb83 (size before relaxing)
+ .debug_str     0x00029dc8       0x64 ./gecko_sdk_4.3.2/platform/bootloader/app_properties/app_properties.o
+                                0x370 (size before relaxing)
+ .debug_str     0x00029e2c       0xf9 ./gecko_sdk_4.3.2/platform/common/src/sl_slist.o
+                                0x306 (size before relaxing)
+ .debug_str     0x00029f25       0xff ./gecko_sdk_4.3.2/platform/common/src/sl_string.o
+                                0x31b (size before relaxing)
+ .debug_str     0x0002a024       0xe3 ./gecko_sdk_4.3.2/platform/common/toolchain/src/sl_memory.o
+                                0x2f9 (size before relaxing)
+ .debug_str     0x0002a107      0x338 ./gecko_sdk_4.3.2/platform/driver/debug/src/sl_debug_swo.o
+                               0x1987 (size before relaxing)
+ .debug_str     0x0002a43f       0x7e ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_led.o
+                                0x2fc (size before relaxing)
+ .debug_str     0x0002a4bd       0xfa ./gecko_sdk_4.3.2/platform/driver/leddrv/src/sl_simple_led.o
+                               0x117a (size before relaxing)
+ .debug_str     0x0002a5b7      0x970 ./gecko_sdk_4.3.2/platform/emdrv/dmadrv/src/dmadrv.o
+                               0x10ba (size before relaxing)
+ .debug_str     0x0002af27      0x136 ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_default_common_linker.o
+                                0x614 (size before relaxing)
+ .debug_str     0x0002b05d      0x20d ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_hal_flash.o
+                                0x620 (size before relaxing)
+ .debug_str     0x0002b26a      0x211 ./gecko_sdk_4.3.2/platform/emdrv/nvm3/src/nvm3_lock.o
+                                0x46e (size before relaxing)
+ .debug_str     0x0002b47b     0x161a ./gecko_sdk_4.3.2/platform/emlib/src/em_cmu.o
+                               0x2ec2 (size before relaxing)
+ .debug_str     0x0002ca95      0x30a ./gecko_sdk_4.3.2/platform/emlib/src/em_core.o
+                                0xa87 (size before relaxing)
+ .debug_str     0x0002cd9f      0x4f8 ./gecko_sdk_4.3.2/platform/emlib/src/em_emu.o
+                                0xd7e (size before relaxing)
+ .debug_str     0x0002d297      0x115 ./gecko_sdk_4.3.2/platform/emlib/src/em_gpio.o
+                               0x1155 (size before relaxing)
+ .debug_str     0x0002d3ac       0xb8 ./gecko_sdk_4.3.2/platform/emlib/src/em_ldma.o
+                               0x12a8 (size before relaxing)
+ .debug_str     0x0002d464      0x1f2 ./gecko_sdk_4.3.2/platform/emlib/src/em_msc.o
+                               0x109a (size before relaxing)
+ .debug_str     0x0002d656      0x16f ./gecko_sdk_4.3.2/platform/emlib/src/em_rmu.o
+                                0x7a6 (size before relaxing)
+ .debug_str     0x0002d7c5     0x2133 ./gecko_sdk_4.3.2/platform/emlib/src/em_rtcc.o
+                               0x260b (size before relaxing)
+ .debug_str     0x0002f8f8      0x474 ./gecko_sdk_4.3.2/platform/emlib/src/em_se.o
+                                0x716 (size before relaxing)
+ .debug_str     0x0002fd6c      0x2e5 ./gecko_sdk_4.3.2/platform/emlib/src/em_system.o
+                                0xc5d (size before relaxing)
+ .debug_str     0x00030051      0x492 ./gecko_sdk_4.3.2/platform/emlib/src/em_usart.o
+                               0x3727 (size before relaxing)
+ .debug_str     0x000304e3      0x36b ./gecko_sdk_4.3.2/platform/emlib/src/em_wdog.o
                                 0x717 (size before relaxing)
- .debug_str     0x0002fd6d      0x2e5 ./gecko_sdk_4.3.2/platform/emlib/src/em_system.o
-                                0xc5e (size before relaxing)
- .debug_str     0x00030052      0x492 ./gecko_sdk_4.3.2/platform/emlib/src/em_usart.o
-                               0x3728 (size before relaxing)
- .debug_str     0x000304e4      0x36b ./gecko_sdk_4.3.2/platform/emlib/src/em_wdog.o
-                                0x718 (size before relaxing)
- .debug_str     0x0003084f      0x691 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/coexistence/protocol/ieee802154_uc/coexistence-802154.o
-                                0x93b (size before relaxing)
- .debug_str     0x00030ee0      0x903 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.o
-                                0xc78 (size before relaxing)
- .debug_str     0x000317e3       0xd2 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.o
-                                0x568 (size before relaxing)
- .debug_str     0x000318b5      0x365 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_ant_div/sl_rail_util_ant_div.o
-                                0x59b (size before relaxing)
- .debug_str     0x00031c1a       0xa4 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_power_manager_init/sl_rail_util_power_manager_init.o
-                                0x2aa (size before relaxing)
- .debug_str     0x00031cbe      0x103 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.o
-                                0x3f1 (size before relaxing)
- .debug_str     0x00031dc1       0xd2 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf_path.o
-                                0x385 (size before relaxing)
- .debug_str     0x00031e93      0x153 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager.o
-                                0x4cc (size before relaxing)
- .debug_str     0x00031fe6      0x67b ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_cipher.o
-                                0xa64 (size before relaxing)
- .debug_str     0x00032661      0x261 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_handling.o
-                                0x6c9 (size before relaxing)
- .debug_str     0x000328c2      0x6c3 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_util.o
-                                0xb24 (size before relaxing)
- .debug_str     0x00032f85       0x73 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_mbedtls.o
-                                0x294 (size before relaxing)
- .debug_str     0x00032ff8      0x52f ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_aead.o
-                                0xbb4 (size before relaxing)
- .debug_str     0x00033527      0x24b ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_cipher.o
-                                0x90a (size before relaxing)
- .debug_str     0x00033772      0x2bc ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_management.o
-                                0x949 (size before relaxing)
- .debug_str     0x00033a2e      0x1f3 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_cipher.o
-                                0x934 (size before relaxing)
- .debug_str     0x00033c21      0x1f0 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli.o
-                                0x767 (size before relaxing)
- .debug_str     0x00033e11      0x241 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_arguments.o
-                                0x539 (size before relaxing)
- .debug_str     0x00034052      0x264 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_command.o
-                                0x828 (size before relaxing)
- .debug_str     0x000342b6      0x1b5 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_input.o
-                                0x67d (size before relaxing)
- .debug_str     0x0003446b       0xa2 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_io.o
-                                0x2f8 (size before relaxing)
- .debug_str     0x0003450d       0x6b ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_tokenize.o
-                                0x2b6 (size before relaxing)
- .debug_str     0x00034578       0x72 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_emu_s2.o
-                                0x76a (size before relaxing)
- .debug_str     0x000345ea       0x68 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfrco.o
-                                0x41b (size before relaxing)
- .debug_str     0x00034652      0x541 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfxo_s2.o
-                                0xbfd (size before relaxing)
- .debug_str     0x00034b93      0x1df ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_lfxo_s2.o
-                                0x4e0 (size before relaxing)
- .debug_str     0x00034d72       0x67 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_nvic.o
-                                0x78d (size before relaxing)
- .debug_str     0x00034dd9       0xff ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream.o
-                                0x42b (size before relaxing)
- .debug_str     0x00034ed8      0x243 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_uart.o
-                               0x11e0 (size before relaxing)
- .debug_str     0x0003511b      0x10d ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_usart.o
-                               0x23ad (size before relaxing)
- .debug_str     0x00035228     0x1fa4 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/base-replacement.o
-                               0x35dd (size before relaxing)
- .debug_str     0x000371cc       0x8c ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/crc.o
-                                0x2aa (size before relaxing)
- .debug_str     0x00037258      0x7a7 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/diagnostic.o
-                               0x1b93 (size before relaxing)
- .debug_str     0x000379ff       0x96 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/ember-phy.o
-                                0x8da (size before relaxing)
- .debug_str     0x00037a95       0x67 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/faults.o
-                                 0xc4 (size before relaxing)
- .debug_str     0x00037afc       0x84 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/random.o
-                                0x2a5 (size before relaxing)
- .debug_str     0x00037b80      0x165 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/token_legacy.o
-                               0x12c9 (size before relaxing)
- .debug_str     0x00037ce5      0x101 ./gecko_sdk_4.3.2/platform/service/legacy_hal_wdog/src/sl_legacy_hal_wdog.o
-                               0x1299 (size before relaxing)
- .debug_str     0x00037de6      0x21a ./gecko_sdk_4.3.2/platform/service/legacy_printf/src/sl_legacy_printf.o
-                               0x1962 (size before relaxing)
- .debug_str     0x00038000      0xa55 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o
-                               0x1099 (size before relaxing)
- .debug_str     0x00038a55       0x97 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_debug.o
-                                0x301 (size before relaxing)
- .debug_str     0x00038aec      0x2c5 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_hal_s2.o
-                               0x1346 (size before relaxing)
- .debug_str     0x00038db1      0x5e3 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer.o
-                                0xc67 (size before relaxing)
- .debug_str     0x00039394      0x1b4 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_rtcc.o
-                               0x1a35 (size before relaxing)
- .debug_str     0x00039548       0x5d ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_init.o
-                                0x216 (size before relaxing)
- .debug_str     0x000395a5       0x67 ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_process_action.o
-                                0x243 (size before relaxing)
- .debug_str     0x0003960c      0x9b8 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_def.o
-                                0xcab (size before relaxing)
- .debug_str     0x00039fc4      0x139 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manager.o
-                               0x100f (size before relaxing)
- .debug_str     0x0003a0fd     0x1529 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manufacturing.o
-                               0x200c (size before relaxing)
- .debug_str     0x0003b626      0x7c6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/core-cli.o
-                               0x1cee (size before relaxing)
- .debug_str     0x0003bdec      0x4be ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/network-cli.o
-                               0x1f3d (size before relaxing)
- .debug_str     0x0003c2aa      0x814 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/option-cli.o
-                               0x2285 (size before relaxing)
- .debug_str     0x0003cabe      0x9b3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/security-cli.o
-                               0x24f2 (size before relaxing)
- .debug_str     0x0003d471     0x146c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zcl-cli.o
-                               0x3414 (size before relaxing)
- .debug_str     0x0003e8dd      0x576 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zdo-cli.o
-                               0x20dc (size before relaxing)
- .debug_str     0x0003ee53      0x250 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_common.o
-                               0x1bbd (size before relaxing)
- .debug_str     0x0003f0a3      0x4ab ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep.o
-                               0x21e9 (size before relaxing)
- .debug_str     0x0003f54e       0xf1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_cli.o
-                                0x621 (size before relaxing)
- .debug_str     0x0003f63f     0x1347 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_stack_cb.o
-                               0x33ff (size before relaxing)
- .debug_str     0x00040986       0x91 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_enhanced_routing.o
-                                0x1ee (size before relaxing)
- .debug_str     0x00040a17       0x97 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic-cb.o
-                                0x298 (size before relaxing)
- .debug_str     0x00040aae      0x126 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic.o
-                                0xa32 (size before relaxing)
- .debug_str     0x00040bd4       0x92 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cb.o
-                                0x2a0 (size before relaxing)
- .debug_str     0x00040c66      0x831 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cli.o
-                               0x11d5 (size before relaxing)
- .debug_str     0x00041497      0x183 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-soc.o
-                                0xfd9 (size before relaxing)
- .debug_str     0x0004161a      0x208 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/debug-print/sl_zigbee_debug_print.o
-                                0x756 (size before relaxing)
- .debug_str     0x00041822       0xfd ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cb.o
-                                0x3af (size before relaxing)
- .debug_str     0x0004191f       0xe0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cli.o
-                                0x4bc (size before relaxing)
- .debug_str     0x000419ff      0x46a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator.o
-                               0x27b6 (size before relaxing)
- .debug_str     0x00041e69      0x189 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-client/groups-client.o
-                                0xd63 (size before relaxing)
- .debug_str     0x00041ff2      0x107 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cb.o
-                                0x32e (size before relaxing)
- .debug_str     0x000420f9       0xef ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cli.o
-                               0x14c5 (size before relaxing)
- .debug_str     0x000421e8      0x105 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-common.o
-                               0x12fc (size before relaxing)
- .debug_str     0x000422ed      0x34f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server.o
-                               0x2704 (size before relaxing)
- .debug_str     0x0004263c       0xc1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cb.o
-                                0x2e3 (size before relaxing)
- .debug_str     0x000426fd       0x8e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cli.o
-                                0x4c2 (size before relaxing)
- .debug_str     0x0004278b      0x222 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify.o
-                               0x2760 (size before relaxing)
- .debug_str     0x000429ad      0x119 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cb.o
-                                0x3fd (size before relaxing)
- .debug_str     0x00042ac6      0x231 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cli.o
-                                0x68b (size before relaxing)
- .debug_str     0x00042cf7      0x499 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator.o
-                               0x1e8b (size before relaxing)
- .debug_str     0x00043190      0x2a6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security-cli.o
-                               0x1816 (size before relaxing)
- .debug_str     0x00043436      0x9e9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security.o
-                               0x284d (size before relaxing)
- .debug_str     0x00043e1f       0x98 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off-cb.o
-                                0x299 (size before relaxing)
- .debug_str     0x00043eb7      0x1b7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off.o
-                               0x1183 (size before relaxing)
- .debug_str     0x0004406e      0x140 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scan-dispatch/scan-dispatch.o
-                               0x1b91 (size before relaxing)
- .debug_str     0x000441ae       0xb7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cb.o
-                                0x797 (size before relaxing)
- .debug_str     0x00044265       0xb4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cli.o
-                                0x496 (size before relaxing)
- .debug_str     0x00044319      0x85e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes.o
-                               0x3b56 (size before relaxing)
- .debug_str     0x00044b77      0x239 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes-client/scenes-client.o
-                               0x103b (size before relaxing)
- .debug_str     0x00044db0       0x6e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-cli.o
-                                0x570 (size before relaxing)
- .debug_str     0x00044e1e       0x7d ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-custom-cluster-cli.o
-                                0x4ca (size before relaxing)
- .debug_str     0x00044e9b      0x26f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-global-cli.o
-                                0x78e (size before relaxing)
- .debug_str     0x0004510a      0x3e7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zll-identify-server/zll-identify-server.o
-                               0x151c (size before relaxing)
- .debug_str     0x000454f1      0x3af ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-trust-center.o
-                               0x1ff8 (size before relaxing)
- .debug_str     0x000458a0      0x116 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/crypto-state.o
-                                0x84c (size before relaxing)
- .debug_str     0x000459b6      0x160 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/service-function/sl_service_function.o
-                                0x480 (size before relaxing)
- .debug_str     0x00045b16      0x107 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/signature-decode/sl_signature_decode.o
-                                0x3c4 (size before relaxing)
- .debug_str     0x00045c1d      0xea7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-common.o
-                               0x37fe (size before relaxing)
- .debug_str     0x00046ac4      0x430 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-event.o
-                               0x1d2c (size before relaxing)
- .debug_str     0x00046ef4      0x2a4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc-common.o
-                               0x188c (size before relaxing)
- .debug_str     0x00047198      0x73e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc.o
-                               0x2abb (size before relaxing)
- .debug_str     0x000478d6       0x7e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-size.o
-                                0xea7 (size before relaxing)
- .debug_str     0x00047954      0xc80 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-storage.o
-                               0x267b (size before relaxing)
- .debug_str     0x000485d4      0x684 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-table.o
-                               0x13c9 (size before relaxing)
- .debug_str     0x00048c58      0x344 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/client-api.o
-                               0x1046 (size before relaxing)
- .debug_str     0x00048f9c     0x1468 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-callback.o
-                               0x3f92 (size before relaxing)
- .debug_str     0x0004a404       0xe3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-other-callback.o
-                                0xb1a (size before relaxing)
- .debug_str     0x0004a4e7      0x1f0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/message.o
-                                0xd02 (size before relaxing)
- .debug_str     0x0004a6d7       0xbb ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/multi-network.o
-                               0x1b36 (size before relaxing)
- .debug_str     0x0004a792      0x17f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print-formatter.o
-                                0x4cd (size before relaxing)
- .debug_str     0x0004a911      0x129 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print.o
-                                0x9ee (size before relaxing)
- .debug_str     0x0004aa3a      0x14a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-cluster-message.o
-                                0xbe5 (size before relaxing)
- .debug_str     0x0004ab84      0x15c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-global-message.o
-                               0x19f4 (size before relaxing)
- .debug_str     0x0004ace0      0x3d6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-common.o
-                               0x268d (size before relaxing)
- .debug_str     0x0004b0b6       0xb0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-soc.o
-                               0x14a1 (size before relaxing)
- .debug_str     0x0004b166      0x1f6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/time-util.o
-                                0xa5f (size before relaxing)
- .debug_str     0x0004b35c      0x660 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/util.o
-                               0x39cd (size before relaxing)
- .debug_str     0x0004b9bc       0x72 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/zcl-util.o
-                                0x4cf (size before relaxing)
- .debug_str     0x0004ba2e      0x4ff ./gecko_sdk_4.3.2/protocol/zigbee/app/util/common/library.o
-                                0xf07 (size before relaxing)
- .debug_str     0x0004bf2d      0x13a ./gecko_sdk_4.3.2/protocol/zigbee/app/util/security/security-address-cache.o
-                               0x17e6 (size before relaxing)
- .debug_str     0x0004c067       0xee ./gecko_sdk_4.3.2/protocol/zigbee/app/util/serial/sl_zigbee_command_interpreter.o
+ .debug_str     0x0003084e      0x691 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/coexistence/protocol/ieee802154_uc/coexistence-802154.o
+                                0x93a (size before relaxing)
+ .debug_str     0x00030edf      0x903 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_conversions_efr32.o
+                                0xc77 (size before relaxing)
+ .debug_str     0x000317e2       0xd2 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/pa-conversions/pa_curves_efr32.o
+                                0x567 (size before relaxing)
+ .debug_str     0x000318b4      0x365 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_ant_div/sl_rail_util_ant_div.o
                                 0x59a (size before relaxing)
- .debug_str     0x0004c155      0x111 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-common.o
-                               0x18dc (size before relaxing)
- .debug_str     0x0004c266      0x102 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-library.o
-                               0x18c9 (size before relaxing)
- .debug_str     0x0004c368      0x2c5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration-access.o
-                                0x548 (size before relaxing)
- .debug_str     0x0004c62d     0x146f ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration.o
-                               0x3882 (size before relaxing)
- .debug_str     0x0004da9c      0xb8b ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/ember-multi-network-stub.o
-                               0x26f1 (size before relaxing)
- .debug_str     0x0004e627       0xac ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-common.o
-                                0x4fc (size before relaxing)
- .debug_str     0x0004e6d3       0x80 ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-stub.o
-                                0xa09 (size before relaxing)
- .debug_str     0x0004e753      0x172 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/aes-ecb.o
-                                0xb4b (size before relaxing)
- .debug_str     0x0004e8c5      0x162 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/strong-random-api.o
-                               0x1278 (size before relaxing)
- .debug_str     0x0004ea27      0x4b3 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/zigbee-event-logger-stub-gen.o
-                                0x779 (size before relaxing)
- .debug_str     0x0004eeda      0x34b ./gecko_sdk_4.3.2/protocol/zigbee/stack/gp/gp-stub.o
-                               0x17bb (size before relaxing)
- .debug_str     0x0004f225      0x25a ./gecko_sdk_4.3.2/protocol/zigbee/stack/mac/mac-info-element-parsing-stub.o
-                                0x4a1 (size before relaxing)
- .debug_str     0x0004f47f      0x2f6 ./gecko_sdk_4.3.2/protocol/zigbee/stack/routing/zigbee/enhanced-beacon-request-stub.o
+ .debug_str     0x00031c19       0xa4 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_power_manager_init/sl_rail_util_power_manager_init.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00031cbd      0x103 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_pti/sl_rail_util_pti.o
+                                0x3f0 (size before relaxing)
+ .debug_str     0x00031dc0       0xd2 ./gecko_sdk_4.3.2/platform/radio/rail_lib/plugin/rail_util_rf_path/sl_rail_util_rf_path.o
+                                0x384 (size before relaxing)
+ .debug_str     0x00031e92      0x153 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager.o
+                                0x4cb (size before relaxing)
+ .debug_str     0x00031fe5      0x67b ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_cipher.o
+                                0xa63 (size before relaxing)
+ .debug_str     0x00032660      0x261 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_handling.o
+                                0x6c8 (size before relaxing)
+ .debug_str     0x000328c1      0x6c3 ./gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_util.o
+                                0xb23 (size before relaxing)
+ .debug_str     0x00032f84       0x73 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_mbedtls_support/src/sl_mbedtls.o
+                                0x293 (size before relaxing)
+ .debug_str     0x00032ff7      0x52f ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_aead.o
+                                0xbb3 (size before relaxing)
+ .debug_str     0x00033526      0x24b ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_cipher.o
+                                0x909 (size before relaxing)
+ .debug_str     0x00033771      0x2bc ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_driver_key_management.o
+                                0x948 (size before relaxing)
+ .debug_str     0x00033a2d      0x1f3 ./gecko_sdk_4.3.2/platform/security/sl_component/sl_psa_driver/src/sli_se_transparent_driver_cipher.o
+                                0x933 (size before relaxing)
+ .debug_str     0x00033c20      0x1f0 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli.o
+                                0x766 (size before relaxing)
+ .debug_str     0x00033e10      0x241 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_arguments.o
+                                0x538 (size before relaxing)
+ .debug_str     0x00034051      0x264 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_command.o
+                                0x827 (size before relaxing)
+ .debug_str     0x000342b5      0x1b5 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_input.o
+                                0x67c (size before relaxing)
+ .debug_str     0x0003446a       0xa2 ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_io.o
+                                0x2f7 (size before relaxing)
+ .debug_str     0x0003450c       0x6b ./gecko_sdk_4.3.2/platform/service/cli/src/sl_cli_tokenize.o
+                                0x2b5 (size before relaxing)
+ .debug_str     0x00034577       0x72 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+                                0x769 (size before relaxing)
+ .debug_str     0x000345e9       0x68 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfrco.o
+                                0x41a (size before relaxing)
+ .debug_str     0x00034651      0x541 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_hfxo_s2.o
+                                0xbfc (size before relaxing)
+ .debug_str     0x00034b92      0x1df ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_lfxo_s2.o
+                                0x4df (size before relaxing)
+ .debug_str     0x00034d71       0x67 ./gecko_sdk_4.3.2/platform/service/device_init/src/sl_device_init_nvic.o
+                                0x78c (size before relaxing)
+ .debug_str     0x00034dd8       0xff ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream.o
+                                0x42a (size before relaxing)
+ .debug_str     0x00034ed7      0x243 ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_uart.o
+                               0x11df (size before relaxing)
+ .debug_str     0x0003511a      0x10d ./gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream_usart.o
+                               0x23ac (size before relaxing)
+ .debug_str     0x00035227     0x1fa4 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/base-replacement.o
+                               0x35dc (size before relaxing)
+ .debug_str     0x000371cb       0x8c ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/crc.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00037257      0x7a7 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/diagnostic.o
+                               0x1b92 (size before relaxing)
+ .debug_str     0x000379fe       0x96 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/ember-phy.o
+                                0x8d9 (size before relaxing)
+ .debug_str     0x00037a94       0x67 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/faults.o
+                                 0xc3 (size before relaxing)
+ .debug_str     0x00037afb       0x84 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/random.o
+                                0x2a4 (size before relaxing)
+ .debug_str     0x00037b7f      0x165 ./gecko_sdk_4.3.2/platform/service/legacy_hal/src/token_legacy.o
+                               0x12c8 (size before relaxing)
+ .debug_str     0x00037ce4      0x101 ./gecko_sdk_4.3.2/platform/service/legacy_hal_wdog/src/sl_legacy_hal_wdog.o
+                               0x1298 (size before relaxing)
+ .debug_str     0x00037de5      0x21a ./gecko_sdk_4.3.2/platform/service/legacy_printf/src/sl_legacy_printf.o
+                               0x1961 (size before relaxing)
+ .debug_str     0x00037fff      0xa55 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o
+                               0x1098 (size before relaxing)
+ .debug_str     0x00038a54       0x97 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_debug.o
+                                0x300 (size before relaxing)
+ .debug_str     0x00038aeb      0x2c5 ./gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager_hal_s2.o
+                               0x1345 (size before relaxing)
+ .debug_str     0x00038db0      0x5e3 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer.o
+                                0xc66 (size before relaxing)
+ .debug_str     0x00039393      0x1b4 ./gecko_sdk_4.3.2/platform/service/sleeptimer/src/sl_sleeptimer_hal_rtcc.o
+                               0x1a34 (size before relaxing)
+ .debug_str     0x00039547       0x5d ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_init.o
+                                0x215 (size before relaxing)
+ .debug_str     0x000395a4       0x67 ./gecko_sdk_4.3.2/platform/service/system/src/sl_system_process_action.o
+                                0x242 (size before relaxing)
+ .debug_str     0x0003960b      0x9b8 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_def.o
+                                0xcaa (size before relaxing)
+ .debug_str     0x00039fc3      0x139 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manager.o
+                               0x100e (size before relaxing)
+ .debug_str     0x0003a0fc     0x1529 ./gecko_sdk_4.3.2/platform/service/token_manager/src/sl_token_manufacturing.o
+                               0x200b (size before relaxing)
+ .debug_str     0x0003b625      0x7c6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/core-cli.o
                                0x1ced (size before relaxing)
- .debug_str     0x0004f775      0x36e ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-163k1-stub.o
-                               0x1658 (size before relaxing)
- .debug_str     0x0004fae3      0x20f ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-283k1-stub.o
-                               0x1556 (size before relaxing)
- .debug_str     0x0004fcf2       0xe5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-sign-stub.o
-                               0x1449 (size before relaxing)
- .debug_str     0x0004fdd7      0x121 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-283k1-stub.o
-                               0x13e6 (size before relaxing)
- .debug_str     0x0004fef8       0xd6 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-stub.o
-                               0x13c7 (size before relaxing)
- .debug_str     0x0004ffce      0x3c3 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-stub.o
-                               0x1761 (size before relaxing)
- .debug_str     0x00050391       0xaf ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/install-code-stub.o
-                               0x1360 (size before relaxing)
- .debug_str     0x00050440      0x83a ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager-no-vault.o
-                               0x320d (size before relaxing)
- .debug_str     0x00050c7a      0x26b ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager.o
-                               0x2b0c (size before relaxing)
- .debug_str     0x00050ee5      0x40d ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_dynamic_commissioning_stubs.o
-                                0x6d8 (size before relaxing)
- .debug_str     0x000512f2      0x7d3 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_r23_misc_support_stubs.o
-                                0xbd8 (size before relaxing)
- .debug_str     0x00051ac5       0xd8 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sli_zigbee_zdo_cluster_filter_stubs.o
-                                0x331 (size before relaxing)
- .debug_str     0x00051b9d      0x27a ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/aps-keys-full.o
-                               0x2fd5 (size before relaxing)
- .debug_str     0x00051e17      0x11d ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/end-device-bind-stub.o
-                                0x531 (size before relaxing)
- .debug_str     0x00051f34      0x1af ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/zdo-r22-stub.o
-                               0x184c (size before relaxing)
- .debug_str     0x000520e3      0x5ce ./gecko_sdk_4.3.2/protocol/zigbee/stack/zll/zll-stubs.o
-                               0x1d4a (size before relaxing)
- .debug_str     0x000526b1       0x84 ./gecko_sdk_4.3.2/util/silicon_labs/silabs_core/memory_manager/sl_malloc.o
-                                0x2ef (size before relaxing)
- .debug_str     0x00052735       0x83 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_client.o
-                                0x4b9 (size before relaxing)
- .debug_str     0x000527b8      0x223 ./gecko_sdk_4.3.2/util/third_party/printf/printf.o
-                                0x507 (size before relaxing)
- .debug_str     0x000529db       0x7b ./gecko_sdk_4.3.2/util/third_party/printf/src/iostream_printf.o
-                                0x317 (size before relaxing)
+ .debug_str     0x0003bdeb      0x4be ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/network-cli.o
+                               0x1f3c (size before relaxing)
+ .debug_str     0x0003c2a9      0x814 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/option-cli.o
+                               0x2284 (size before relaxing)
+ .debug_str     0x0003cabd      0x9b3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/security-cli.o
+                               0x24f1 (size before relaxing)
+ .debug_str     0x0003d470     0x146c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zcl-cli.o
+                               0x3413 (size before relaxing)
+ .debug_str     0x0003e8dc      0x576 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/cli/zdo-cli.o
+                               0x20db (size before relaxing)
+ .debug_str     0x0003ee52      0x250 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_common.o
+                               0x1bbc (size before relaxing)
+ .debug_str     0x0003f0a2      0x4ab ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep.o
+                               0x21e8 (size before relaxing)
+ .debug_str     0x0003f54d       0xf1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_cli.o
+                                0x620 (size before relaxing)
+ .debug_str     0x0003f63e     0x1347 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_stack_cb.o
+                               0x33fe (size before relaxing)
+ .debug_str     0x00040985       0x91 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_enhanced_routing.o
+                                0x1ed (size before relaxing)
+ .debug_str     0x00040a16       0x97 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic-cb.o
+                                0x297 (size before relaxing)
+ .debug_str     0x00040aad      0x126 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/basic/basic.o
+                                0xa31 (size before relaxing)
+ .debug_str     0x00040bd3       0x92 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cb.o
+                                0x29f (size before relaxing)
+ .debug_str     0x00040c65      0x831 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-cli.o
+                               0x11d4 (size before relaxing)
+ .debug_str     0x00041496      0x183 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/counters/counters-soc.o
+                                0xfd8 (size before relaxing)
+ .debug_str     0x00041619      0x208 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/debug-print/sl_zigbee_debug_print.o
+                                0x755 (size before relaxing)
+ .debug_str     0x00041821       0xfd ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cb.o
+                                0x3ae (size before relaxing)
+ .debug_str     0x0004191e       0xe0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator-cli.o
+                                0x4bb (size before relaxing)
+ .debug_str     0x000419fe      0x46a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/find-and-bind-initiator/find-and-bind-initiator.o
+                               0x27b5 (size before relaxing)
+ .debug_str     0x00041e68      0x189 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-client/groups-client.o
+                                0xd62 (size before relaxing)
+ .debug_str     0x00041ff1      0x107 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cb.o
+                                0x32d (size before relaxing)
+ .debug_str     0x000420f8       0xef ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-cli.o
+                               0x14c4 (size before relaxing)
+ .debug_str     0x000421e7      0x105 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server-common.o
+                               0x12fb (size before relaxing)
+ .debug_str     0x000422ec      0x34f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/groups-server/groups-server.o
+                               0x2703 (size before relaxing)
+ .debug_str     0x0004263b       0xc1 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cb.o
+                                0x2e2 (size before relaxing)
+ .debug_str     0x000426fc       0x8e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify-cli.o
+                                0x4c1 (size before relaxing)
+ .debug_str     0x0004278a      0x222 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/identify/identify.o
+                               0x275f (size before relaxing)
+ .debug_str     0x000429ac      0x119 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cb.o
+                                0x3fc (size before relaxing)
+ .debug_str     0x00042ac5      0x231 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator-cli.o
+                                0x68a (size before relaxing)
+ .debug_str     0x00042cf6      0x499 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator/network-creator.o
+                               0x1e8a (size before relaxing)
+ .debug_str     0x0004318f      0x2a6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security-cli.o
+                               0x1815 (size before relaxing)
+ .debug_str     0x00043435      0x9e9 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/network-creator-security/network-creator-security.o
+                               0x284c (size before relaxing)
+ .debug_str     0x00043e1e       0x98 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off-cb.o
+                                0x298 (size before relaxing)
+ .debug_str     0x00043eb6      0x1b7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/on-off/on-off.o
+                               0x1182 (size before relaxing)
+ .debug_str     0x0004406d      0x140 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scan-dispatch/scan-dispatch.o
+                               0x1b90 (size before relaxing)
+ .debug_str     0x000441ad       0xb7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cb.o
+                                0x796 (size before relaxing)
+ .debug_str     0x00044264       0xb4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes-cli.o
+                                0x495 (size before relaxing)
+ .debug_str     0x00044318      0x85e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes/scenes.o
+                               0x3b55 (size before relaxing)
+ .debug_str     0x00044b76      0x239 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/scenes-client/scenes-client.o
+                               0x103a (size before relaxing)
+ .debug_str     0x00044daf       0x6e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-cli.o
+                                0x56f (size before relaxing)
+ .debug_str     0x00044e1d       0x7d ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-custom-cluster-cli.o
+                                0x4c9 (size before relaxing)
+ .debug_str     0x00044e9a      0x26f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zcl_cli/zigbee-zcl-global-cli.o
+                                0x78d (size before relaxing)
+ .debug_str     0x00045109      0x3e7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/plugin/zll-identify-server/zll-identify-server.o
+                               0x151b (size before relaxing)
+ .debug_str     0x000454f0      0x3af ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/af-trust-center.o
+                               0x1ff7 (size before relaxing)
+ .debug_str     0x0004589f      0x116 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/security/crypto-state.o
+                                0x84b (size before relaxing)
+ .debug_str     0x000459b5      0x160 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/service-function/sl_service_function.o
+                                0x47f (size before relaxing)
+ .debug_str     0x00045b15      0x107 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/signature-decode/sl_signature_decode.o
+                                0x3c3 (size before relaxing)
+ .debug_str     0x00045c1c      0xea7 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-common.o
+                               0x37fd (size before relaxing)
+ .debug_str     0x00046ac3      0x430 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-event.o
+                               0x1d2b (size before relaxing)
+ .debug_str     0x00046ef3      0x2a4 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc-common.o
+                               0x188b (size before relaxing)
+ .debug_str     0x00047197      0x73e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/af-soc.o
+                               0x2aba (size before relaxing)
+ .debug_str     0x000478d5       0x7e ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-size.o
+                                0xea6 (size before relaxing)
+ .debug_str     0x00047953      0xc80 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-storage.o
+                               0x267a (size before relaxing)
+ .debug_str     0x000485d3      0x684 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/attribute-table.o
+                               0x13c8 (size before relaxing)
+ .debug_str     0x00048c57      0x344 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/client-api.o
+                               0x1045 (size before relaxing)
+ .debug_str     0x00048f9b     0x1468 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-callback.o
+                               0x3f91 (size before relaxing)
+ .debug_str     0x0004a403       0xe3 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/global-other-callback.o
+                                0xb19 (size before relaxing)
+ .debug_str     0x0004a4e6      0x1f0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/message.o
+                                0xd01 (size before relaxing)
+ .debug_str     0x0004a6d6       0xbb ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/multi-network.o
+                               0x1b35 (size before relaxing)
+ .debug_str     0x0004a791      0x17f ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print-formatter.o
+                                0x4cc (size before relaxing)
+ .debug_str     0x0004a910      0x129 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/print.o
+                                0x9ed (size before relaxing)
+ .debug_str     0x0004aa39      0x14a ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-cluster-message.o
+                                0xbe4 (size before relaxing)
+ .debug_str     0x0004ab83      0x15c ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/process-global-message.o
+                               0x19f3 (size before relaxing)
+ .debug_str     0x0004acdf      0x3d6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-common.o
+                               0x268c (size before relaxing)
+ .debug_str     0x0004b0b5       0xb0 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/service-discovery-soc.o
+                               0x14a0 (size before relaxing)
+ .debug_str     0x0004b165      0x1f6 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/time-util.o
+                                0xa5e (size before relaxing)
+ .debug_str     0x0004b35b      0x660 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/util.o
+                               0x39cc (size before relaxing)
+ .debug_str     0x0004b9bb       0x72 ./gecko_sdk_4.3.2/protocol/zigbee/app/framework/util/zcl-util.o
+                                0x4ce (size before relaxing)
+ .debug_str     0x0004ba2d      0x4ff ./gecko_sdk_4.3.2/protocol/zigbee/app/util/common/library.o
+                                0xf06 (size before relaxing)
+ .debug_str     0x0004bf2c      0x13a ./gecko_sdk_4.3.2/protocol/zigbee/app/util/security/security-address-cache.o
+                               0x17e5 (size before relaxing)
+ .debug_str     0x0004c066       0xee ./gecko_sdk_4.3.2/protocol/zigbee/app/util/serial/sl_zigbee_command_interpreter.o
+                                0x599 (size before relaxing)
+ .debug_str     0x0004c154      0x111 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-common.o
+                               0x18db (size before relaxing)
+ .debug_str     0x0004c265      0x102 ./gecko_sdk_4.3.2/protocol/zigbee/app/util/zigbee-framework/zigbee-device-library.o
+                               0x18c8 (size before relaxing)
+ .debug_str     0x0004c367      0x2c5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration-access.o
+                                0x547 (size before relaxing)
+ .debug_str     0x0004c62c     0x146f ./gecko_sdk_4.3.2/protocol/zigbee/stack/config/ember-configuration.o
+                               0x3881 (size before relaxing)
+ .debug_str     0x0004da9b      0xb8b ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/ember-multi-network-stub.o
+                               0x26f0 (size before relaxing)
+ .debug_str     0x0004e626       0xac ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-common.o
+                                0x4fb (size before relaxing)
+ .debug_str     0x0004e6d2       0x80 ./gecko_sdk_4.3.2/protocol/zigbee/stack/core/multi-pan-stub.o
+                                0xa08 (size before relaxing)
+ .debug_str     0x0004e752      0x172 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/aes-ecb.o
+                                0xb4a (size before relaxing)
+ .debug_str     0x0004e8c4      0x162 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/strong-random-api.o
+                               0x1277 (size before relaxing)
+ .debug_str     0x0004ea26      0x4b3 ./gecko_sdk_4.3.2/protocol/zigbee/stack/framework/zigbee-event-logger-stub-gen.o
+                                0x778 (size before relaxing)
+ .debug_str     0x0004eed9      0x34b ./gecko_sdk_4.3.2/protocol/zigbee/stack/gp/gp-stub.o
+                               0x17ba (size before relaxing)
+ .debug_str     0x0004f224      0x25a ./gecko_sdk_4.3.2/protocol/zigbee/stack/mac/mac-info-element-parsing-stub.o
+                                0x4a0 (size before relaxing)
+ .debug_str     0x0004f47e      0x2f6 ./gecko_sdk_4.3.2/protocol/zigbee/stack/routing/zigbee/enhanced-beacon-request-stub.o
+                               0x1cec (size before relaxing)
+ .debug_str     0x0004f774      0x36e ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-163k1-stub.o
+                               0x1657 (size before relaxing)
+ .debug_str     0x0004fae2      0x20f ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-283k1-stub.o
+                               0x1555 (size before relaxing)
+ .debug_str     0x0004fcf1       0xe5 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-sign-stub.o
+                               0x1448 (size before relaxing)
+ .debug_str     0x0004fdd6      0x121 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-283k1-stub.o
+                               0x13e5 (size before relaxing)
+ .debug_str     0x0004fef7       0xd6 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-dsa-verify-stub.o
+                               0x13c6 (size before relaxing)
+ .debug_str     0x0004ffcd      0x3c3 ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/cbke-crypto-engine-stub.o
+                               0x1760 (size before relaxing)
+ .debug_str     0x00050390       0xaf ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/install-code-stub.o
+                               0x135f (size before relaxing)
+ .debug_str     0x0005043f      0x83a ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager-no-vault.o
+                               0x320c (size before relaxing)
+ .debug_str     0x00050c79      0x26b ./gecko_sdk_4.3.2/protocol/zigbee/stack/security/zigbee-security-manager.o
+                               0x2b0b (size before relaxing)
+ .debug_str     0x00050ee4      0x40d ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_dynamic_commissioning_stubs.o
+                                0x6d7 (size before relaxing)
+ .debug_str     0x000512f1      0x7d3 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sl_zigbee_r23_misc_support_stubs.o
+                                0xbd7 (size before relaxing)
+ .debug_str     0x00051ac4       0xd8 ./gecko_sdk_4.3.2/protocol/zigbee/stack/stubs/sli_zigbee_zdo_cluster_filter_stubs.o
+                                0x330 (size before relaxing)
+ .debug_str     0x00051b9c      0x27a ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/aps-keys-full.o
+                               0x2fd4 (size before relaxing)
+ .debug_str     0x00051e16      0x11d ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/end-device-bind-stub.o
+                                0x530 (size before relaxing)
+ .debug_str     0x00051f33      0x1af ./gecko_sdk_4.3.2/protocol/zigbee/stack/zigbee/zdo-r22-stub.o
+                               0x184b (size before relaxing)
+ .debug_str     0x000520e2      0x5ce ./gecko_sdk_4.3.2/protocol/zigbee/stack/zll/zll-stubs.o
+                               0x1d49 (size before relaxing)
+ .debug_str     0x000526b0       0x84 ./gecko_sdk_4.3.2/util/silicon_labs/silabs_core/memory_manager/sl_malloc.o
+                                0x2ee (size before relaxing)
+ .debug_str     0x00052734       0x83 ./gecko_sdk_4.3.2/util/third_party/mbedtls/library/psa_crypto_client.o
+                                0x4b8 (size before relaxing)
+ .debug_str     0x000527b7      0x223 ./gecko_sdk_4.3.2/util/third_party/printf/printf.o
+                                0x506 (size before relaxing)
+ .debug_str     0x000529da       0x7b ./gecko_sdk_4.3.2/util/third_party/printf/src/iostream_printf.o
+                                0x316 (size before relaxing)
 
 .debug_frame    0x00000000    0x10234
  .debug_frame   0x00000000       0x58 ./app.o

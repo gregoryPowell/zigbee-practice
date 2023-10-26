@@ -51,7 +51,7 @@ autogen/sl_rail_util_ieee802154_phy_select.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\autogen/sl_component_catalog.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_assert_error_codes.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\protocol\ieee802154\rail_ieee802154.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_types.h \
@@ -111,7 +111,7 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\autogen/sl_component_catalog.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_assert_error_codes.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\protocol\ieee802154\rail_ieee802154.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_types.h:

@@ -2,9 +2,37 @@
 
 // This file contains the tokens for nonSingletons stored in flash
 
+// Identifier tags for tokens
+// Creator for attribute: cluster revision, endpoint: 1
+#define CREATOR_CLUSTER_REVISION_CLIENT_1 0xB000
+#define NVM3KEY_CLUSTER_REVISION_CLIENT_1 (NVM3KEY_DOMAIN_ZIGBEE | 0xB000)
 
 
+// Types for the tokens
+#ifdef DEFINETYPES
+typedef uint16_t tokType_cluster_revision_client;
+        #endif // DEFINETYPES
 
+// Actual token definitions
+#ifdef DEFINETOKENS
 
+DEFINE_BASIC_TOKEN(CLUSTER_REVISION_CLIENT_1, tokType_cluster_revision_client, 0x2)
+#endif // DEFINETOKENS
 
+// Macro snippet that loads all the attributes from tokens
+#define GENERATED_TOKEN_LOADER(endpoint) do { \
+  uint8_t ptr[2]; \
+  uint8_t curNetwork = emberGetCurrentNetwork(); \
+  uint8_t epNetwork; \
+} while (false)
 
+// Macro snippet that saves the attribute to token
+#define GENERATED_TOKEN_SAVER do { \
+  uint8_t allZeroData[2]; \
+  MEMSET(allZeroData, 0, 2);  \
+  if ( data == NULL ) { data = allZeroData; } \
+if ( 1 == endpoint ) { \
+    if ( 0x0006 == clusterId ) { \
+    } \
+} \
+} while (false)

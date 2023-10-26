@@ -32,7 +32,7 @@
 		  { 0xFFFD, ZCL_INT16U_ATTRIBUTE_TYPE, 2, (ATTRIBUTE_MASK_CLIENT), { (uint8_t*)2  } }, /* 3 Cluster: Identify, Attribute: cluster revision, Side: client*/ \
 		  { 0x0000, ZCL_INT16U_ATTRIBUTE_TYPE, 2, (ATTRIBUTE_MASK_WRITABLE), { (uint8_t*)0x0000  } }, /* 4 Cluster: Identify, Attribute: identify time, Side: server*/ \
 		  { 0xFFFD, ZCL_INT16U_ATTRIBUTE_TYPE, 2, (0x00), { (uint8_t*)2  } }, /* 5 Cluster: Identify, Attribute: cluster revision, Side: server*/ \
-		  { 0xFFFD, ZCL_INT16U_ATTRIBUTE_TYPE, 2, (ATTRIBUTE_MASK_CLIENT), { (uint8_t*)2  } } /* 6 Cluster: On/off, Attribute: cluster revision, Side: client*/ \
+		  { 0xFFFD, ZCL_INT16U_ATTRIBUTE_TYPE, 2, (ATTRIBUTE_MASK_TOKENIZE| ATTRIBUTE_MASK_CLIENT), { (uint8_t*)2  } } /* 6 Cluster: On/off, Attribute: cluster revision, Side: client*/ \
 		 }
 
  

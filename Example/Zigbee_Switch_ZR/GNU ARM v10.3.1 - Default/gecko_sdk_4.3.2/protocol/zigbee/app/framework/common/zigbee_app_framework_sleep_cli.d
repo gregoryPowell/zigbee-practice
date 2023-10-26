@@ -1,7 +1,7 @@
 gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_cli.o: \
  C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_cli.c \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\legacy_hal\inc\platform-header.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\em_device.h \
@@ -52,10 +52,10 @@ gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_common.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/emlib_core_debug_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/emlib_core_debug_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\cli\inc\sl_cli.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\cli\inc\sl_cli_types.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_cli_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_cli_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_slist.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h \
@@ -68,13 +68,13 @@ gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\ember-types.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\config\ember-configuration-defaults.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\util\config.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/zap-config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/zap-config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_endianness.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/zigbee_device_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/zigbee_device_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\security\security-config.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_binding_table_config.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_source_route_config.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_pro_leaf_stack_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_binding_table_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_source_route_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_pro_leaf_stack_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\protocol\ieee802154\rail_ieee802154.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_types.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\chip\efr32\efr32xg2x\rail_chip_specific.h \
@@ -86,16 +86,16 @@ gecko_sdk_4.3.2/protocol/zigbee/app/framework/common/zigbee_app_framework_sleep_
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\zll-types.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\gp-types.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\zigbee-security-manager-types.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/zigbee_core_cli_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/zigbee_core_cli_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sl_power_manager.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_power_manager_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_power_manager_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sl_sleeptimer.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\plugin\debug-print\sl_zigbee_debug_print.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_debug_print_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_debug_print_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\util\third_party\printf\printf.h
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\legacy_hal\inc\platform-header.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\em_device.h:
@@ -146,10 +146,10 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_common.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/emlib_core_debug_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/emlib_core_debug_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\cli\inc\sl_cli.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\cli\inc\sl_cli_types.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_cli_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_cli_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_slist.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h:
@@ -162,13 +162,13 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\util\silicon_labs\silabs_core\ev
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\ember-types.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\config\ember-configuration-defaults.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\util\config.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/zap-config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/zap-config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_endianness.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/zigbee_device_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/zigbee_device_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\security\security-config.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_binding_table_config.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_source_route_config.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_pro_leaf_stack_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_binding_table_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_source_route_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_pro_leaf_stack_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\protocol\ieee802154\rail_ieee802154.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\common\rail_types.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\radio\rail_lib\chip\efr32\efr32xg2x\rail_chip_specific.h:
@@ -180,11 +180,11 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\er
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\zll-types.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\gp-types.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\stack\include\zigbee-security-manager-types.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/zigbee_core_cli_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/zigbee_core_cli_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sl_power_manager.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_power_manager_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_power_manager_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sl_sleeptimer.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\protocol\zigbee\app\framework\plugin\debug-print\sl_zigbee_debug_print.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/sl_zigbee_debug_print_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/sl_zigbee_debug_print_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\util\third_party\printf\printf.h:

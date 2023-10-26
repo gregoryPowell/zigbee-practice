@@ -47,7 +47,7 @@ gecko_sdk_4.3.2/platform/emlib/src/em_rmu.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_common.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h \
@@ -56,7 +56,7 @@ gecko_sdk_4.3.2/platform/emlib/src/em_rmu.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_bus.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/emlib_core_debug_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/emlib_core_debug_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_bus.h
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_rmu.h:
@@ -105,7 +105,7 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_common.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h:
@@ -114,5 +114,5 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_bus.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/emlib_core_debug_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/emlib_core_debug_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_bus.h:

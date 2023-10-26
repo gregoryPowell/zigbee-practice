@@ -26,7 +26,7 @@
 #define BUTTON1 1
 
 static sl_zigbee_event_t ledBlinkingEventControl;
-ledOnOff led0OnOffStatus;
+//ledOnOff led0OnOffStatus;
 
 /** @brief Complete network steering.
  *
@@ -124,16 +124,16 @@ ledBlinkingEventHandler (void)
 {
   sl_zigbee_event_set_inactive(&ledBlinkingEventControl);
 
-  // Retrieve the previous status of LED0
-  sl_token_get_data (NVM3KEY_LED0_ON_OFF, 1, &led0OnOffStatus,
-                     sizeof(led0OnOffStatus));
+//  // Retrieve the previous status of LED0
+//  sl_token_get_data (NVM3KEY_LED0_ON_OFF, 1, &led0OnOffStatus,
+//                     sizeof(led0OnOffStatus));
 
-  sl_led_toggle (&sl_led_led0);
-  led0OnOffStatus = !led0OnOffStatus;
+//  sl_led_toggle (&sl_led_led0);
+//  led0OnOffStatus = !led0OnOffStatus;
 
-  // Store the current status of LED0
-  sl_token_set_data (NVM3KEY_LED0_ON_OFF, 1, &led0OnOffStatus,
-                     sizeof(led0OnOffStatus));
+//  // Store the current status of LED0
+//  sl_token_set_data (NVM3KEY_LED0_ON_OFF, 1, &led0OnOffStatus,
+//                     sizeof(led0OnOffStatus));
 
   //Reschedule the event after a delay of 2 seconds
   sl_zigbee_event_set_delay_ms(&ledBlinkingEventControl, 2000);
@@ -147,19 +147,19 @@ emberAfMainInitCallback (void)
   sl_token_get_manufacturing_data (TOKEN_MFG_STRING, 1, &mfgString, sizeof(mfgString));
   emberAfAppPrintln("MFG String: %s", mfgString);
 
-  // Retrieve the LED0 status before reset/power-off from the token
-  sl_token_get_data (NVM3KEY_LED0_ON_OFF, 1, &led0OnOffStatus,
-                     sizeof(led0OnOffStatus));
+//  // Retrieve the LED0 status before reset/power-off from the token
+//  sl_token_get_data (NVM3KEY_LED0_ON_OFF, 1, &led0OnOffStatus,
+//                     sizeof(led0OnOffStatus));
 
-  // Restore the LED0 status during initialization
-  if (led0OnOffStatus)
-    {
-      sl_led_turn_on (&sl_led_led0);
-    }
-  else
-    {
-      sl_led_turn_off (&sl_led_led0);
-    }
+//  // Restore the LED0 status during initialization
+//  if (led0OnOffStatus)
+//    {
+//      sl_led_turn_on (&sl_led_led0);
+//    }
+//  else
+//    {
+//      sl_led_turn_off (&sl_led_led0);
+//    }
 
   sl_zigbee_event_init(&ledBlinkingEventControl, ledBlinkingEventHandler);
 

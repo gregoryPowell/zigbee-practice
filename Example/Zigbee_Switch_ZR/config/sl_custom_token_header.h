@@ -85,19 +85,19 @@
  *
  ******************************************************************************/
 /**
- * Custom Zigbee Application Tokens
- */
-// Define token names here
-#define NVM3KEY_LED0_ON_OFF     (NVM3KEY_DOMAIN_USER | 0x0001)
-
-#ifdef DEFINETYPES
-// Include or define any typedef for tokens here
-typedef bool ledOnOff;        // LED ON OFF status
-#endif //DEFINETYPES
-
-#ifdef DEFINETOKENS
-// Define the actual token storage information here
-DEFINE_BASIC_TOKEN(NVM3KEY_LED0_ON_OFF,
-                   ledOnOff,
-                   false)
-#endif
+* Custom Zigbee Application Tokens
+*/
+//// Define token names here
+//#define LED0_ON_OFF (NVM3KEY_DOMAIN_USER | 0x0001U)
+//
+//#if defined(DEFINETYPES)
+//// Include or define any typedef for tokens here
+//typedef bool ledOnOff;        // LED ON OFF status
+//#endif //DEFINETYPES
+//
+//#ifdef DEFINETOKENS
+//// Define the actual token storage information here
+//DEFINE_BASIC_TOKEN(LED0_ON_OFF,
+//                   ledOnOff,
+//                   false)
+//#endif

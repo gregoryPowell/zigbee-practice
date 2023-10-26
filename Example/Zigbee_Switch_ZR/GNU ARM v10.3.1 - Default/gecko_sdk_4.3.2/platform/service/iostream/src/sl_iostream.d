@@ -2,7 +2,7 @@ gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream.o: \
  C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/platform/service/iostream/src/sl_iostream.c \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h \
@@ -54,11 +54,11 @@ gecko_sdk_4.3.2/platform/service/iostream/src/sl_iostream.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_common.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/emlib_core_debug_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/emlib_core_debug_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\util\third_party\printf\printf.h
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\autogen/sl_component_catalog.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core.h:
@@ -110,5 +110,5 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_common.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Switch_ZR\config/emlib_core_debug_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Switch_ZR\config/emlib_core_debug_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\util\third_party\printf\printf.h:

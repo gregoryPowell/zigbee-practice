@@ -2,7 +2,7 @@ gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o: \
  C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/platform/service/power_manager/src/sl_power_manager.c \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sl_power_manager.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/sl_power_manager_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\config/sl_power_manager_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_slist.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sl_sleeptimer.h \
@@ -13,8 +13,8 @@ gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h \
  C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/platform/service/power_manager/src/sli_power_manager_private.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/sl_component_catalog.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/emlib_core_debug_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\config/emlib_core_debug_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sli_power_manager.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sl_power_manager.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sli_sleeptimer.h \
@@ -62,7 +62,7 @@ gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/sl_sleeptimer_config.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\config/sl_sleeptimer_config.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_atomic.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_emu.h \
@@ -71,7 +71,7 @@ gecko_sdk_4.3.2/platform/service/power_manager/src/sl_power_manager.o: \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sl_power_manager.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/sl_power_manager_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\config/sl_power_manager_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_slist.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_status.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sl_sleeptimer.h:
@@ -82,8 +82,8 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsi
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_core_generic.h:
 C:/Users/Austin/SimplicityStudio/SDKs/gecko_sdk/platform/service/power_manager/src/sli_power_manager_private.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/sl_component_catalog.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/emlib_core_debug_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\config/emlib_core_debug_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sli_power_manager.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\power_manager\inc\sl_power_manager.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\service\sleeptimer\inc\sli_sleeptimer.h:
@@ -131,7 +131,7 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\config/sl_sleeptimer_config.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\config/sl_sleeptimer_config.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_assert.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_atomic.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_emu.h:

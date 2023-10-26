@@ -48,7 +48,7 @@ gecko_sdk_4.3.2/platform/security/sl_component/se_manager/src/sl_se_manager_key_
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h \
- C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/sl_component_catalog.h \
+ C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\autogen/sl_component_catalog.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\security\sl_component\se_manager\inc\sl_se_manager_key_handling.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\security\sl_component\se_manager\inc\sl_se_manager_types.h \
  c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\security\sl_component\se_manager\inc\sl_se_manager_defines.h \
@@ -110,7 +110,7 @@ c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr3
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_prs_signals.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_dma_descriptor.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\device\siliconlabs\efr32mg21\include\efr32mg21_ldmaxbar_defines.h:
-C:\Users\Austin\Documents\zigbee-practice\Example1\Zigbee_Light_ZC\autogen/sl_component_catalog.h:
+C:\Users\Austin\Documents\zigbee-practice\Example\Zigbee_Light_ZC\autogen/sl_component_catalog.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\security\sl_component\se_manager\inc\sl_se_manager_key_handling.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\security\sl_component\se_manager\inc\sl_se_manager_types.h:
 c:\users\austin\simplicitystudio\sdks\gecko_sdk\platform\security\sl_component\se_manager\inc\sl_se_manager_defines.h:
