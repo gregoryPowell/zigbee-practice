@@ -1,0 +1,18 @@
+#CRC Codes for initially generated config files -- do not modify!
+address-table-config.h=1476209191
+concentrator-config.h=-1989523483
+counters-config.h=-1681767068
+emlib_core_debug_config.h=-551881347
+gateway-config.h=-1873420954
+identify-feedback-config.h=-1438383195
+legacy_common_ash_config.h=-318977728
+ncp-configuration-config.h=69989640
+network-find-config.h=1820281544
+sl_cli_config.h=1209081209
+sl_cli_config_example.h=-2008182582
+sl_zigbee_debug_print_config.h=50688747
+unix-library-config.h=1237813360
+zcl-framework-core-config.h=1390943071
+zcl/zcl_config.zap=-607077916
+zigbee_core_cli_config.h=-997424181
+zigbee_device_config.h=-1362865751
