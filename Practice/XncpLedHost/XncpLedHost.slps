@@ -11,6 +11,6 @@
     <properties key="projectCommon.kitId" value=""/>
     <properties key="projectCommon.toolchainId" value="com.silabs.ss.framework.project.core.noToolChain:0.0.0"/>
     <properties key="universalConfig.projectTypeIds" value="com.silabs.framework.project.makefile"/>
-    <properties key="projectCommon.importModeId" value="LINK_LIBRARIES"/>
+    <properties key="projectCommon.importModeId" value="COPY"/>
   </descriptors>
 </model:MDescriptors>

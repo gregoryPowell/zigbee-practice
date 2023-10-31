@@ -26,8 +26,8 @@ include:
 sdk: {id: gecko_sdk, version: 4.3.2}
 toolchain_settings: []
 component:
-- {id: zigbee_identify}
 - {id: zigbee_counters}
+- {id: zigbee_identify}
 - instance: [example]
   id: cli
 - {id: zigbee_form_and_join}
@@ -35,8 +35,8 @@ component:
 - {id: zigbee_price_common}
 - {id: zigbee_zcl_framework_core}
 - {id: zigbee_address_table}
-- {id: zigbee_file_descriptor_dispatch}
 - {id: native}
+- {id: zigbee_file_descriptor_dispatch}
 - {id: zigbee_gateway}
 - {id: iostream_stdio}
 - {id: zigbee_debug_print}
@@ -90,6 +90,6 @@ configuration:
 - {name: SL_CLI_PROMPT_STRING, value: '"XncpLedHost>"'}
 ui_hints:
   highlight:
-  - {path: null, focus: true}
+  - {path: '', focus: true}
   - {path: readme.html}
 
